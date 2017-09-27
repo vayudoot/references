@@ -16,6 +16,7 @@
 
 # Startup
 * [Best startup pitching exercises](https://roadtofunding.com/startup-pitching-exercises/)
+* [Sam Altman's startup playbook](http://playbook.samaltman.com/)
 
 # ML
 * https://news.ycombinator.com/item?id=14950122
