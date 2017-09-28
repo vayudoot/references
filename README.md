@@ -5,6 +5,8 @@
 
 # System / OS / kernel
 * [Intro to programming with pmem](https://software.intel.com/en-us/articles/introduction-to-programming-with-persistent-memory-from-intel)
+* [Programming and usage for NVM](http://research.cs.wisc.edu/sonar/tutorial/)
+* [Intel NTB startup guide](https://github.com/davejiang/linux/wiki/Intel-NTB-Startup-Guide)
 
 # Management
 * [Engineering management](https://github.com/charlax/engineering-management)
@@ -53,6 +55,9 @@
 * [Log structured storage](https://news.ycombinator.com/item?id=14447727)
 * [How to build non-volatile memory DBMS](https://news.ycombinator.com/item?id=14386626)
 * [Memory like storage means File systems much change](https://news.ycombinator.com/item?id=14446248)
+* [NVMe overview and primer - I](http://storageioblog.com/nvme-overview-and-primer-part-i/)
+* [NVMe bibliography](http://storageioblog.com/nvme-overview-and-primer-part-i/)
+* [How does flash memory avoid data loss?](https://jmetz.com/2017/09/storage-how-does-flash-memory-avoid-data-loss/)
 
 # Automative
 * [Intro to CAN bus](https://news.ycombinator.com/item?id=14499021)
