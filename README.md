@@ -4,7 +4,6 @@
 * [Crafting interpreters](http://www.craftinginterpreters.com/contents.html)
 
 # System / OS / kernel
-* [CMU 18-548/Memory System Architecture](https://www.ece.cmu.edu/~ece548/)
 * [Intro to programming with pmem](https://software.intel.com/en-us/articles/introduction-to-programming-with-persistent-memory-from-intel)
 
 # Management
@@ -33,21 +32,6 @@
 * http://www.johnwittenauer.net/tag/machine-learning/
 * http://blog.deepgram.com/how-to-get-a-job-in-deep-learning/
 
-## classes
-* http://www.cs.columbia.edu/%7Emcollins/notes-spring2013.html
-* http://www.cs.cmu.edu/~roni/10601
-* http://www.cs.cmu.edu/~mgormley/courses/10701-f16/
-* http://www.stat.cmu.edu/~larry/=sml/
-* http://ufldl.stanford.edu/tutorial/
-* https://github.com/danluu/UFLDL-tutorial
-* http://introtodeeplearning.com/index.htm
-* https://www.coursera.org/course/neuralnets
-* https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about (reco)
-* https://www.coursera.org/specializations/machine-learning (recommended)
-* http://cs224d.stanford.edu/syllabus.html
-* https://www.youtube.com/watch?v=ChLEJA6J2b8
-* https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv (https://cs231n.github.io/)
-
 # Cryptocurrency
 * [Building Blockchain in Go](https://jeiwan.cc/posts/building-blockchain-in-go-part-1/)
 * [Copay multisig tutorial](https://gist.github.com/paOol/d6c78c339cc5c4df6dd745d3bc2cc522)
@@ -66,7 +50,6 @@
 * https://www.igvita.com/2014/05/05/minimum-viable-block-chain/
 
 # Storage / Filesystem
-* [CMU 18-746/Storage Systems](https://www.ece.cmu.edu/~ganger/746.fall16/lectures.html)
 * [Log structured storage](https://news.ycombinator.com/item?id=14447727)
 * [How to build non-volatile memory DBMS](https://news.ycombinator.com/item?id=14386626)
 * [Memory like storage means File systems much change](https://news.ycombinator.com/item?id=14446248)
@@ -77,8 +60,5 @@
 
 # Miscll
 * [YT: Persistent memory](https://www.youtube.com/watch?v=rG8h8NPnHbc)
-* [UCB CS 61A SICS](http://inst.eecs.berkeley.edu/~cs61a/sp17/)
 * [GDB](https://github.com/CppCon/CppCon2016/tree/master/Tutorials/GDB%20-%20a%20lot%20more%20than%20you%20realized)
-* [Stanford CS166 Data structures](https://web.stanford.edu/class/cs166/)
-* [Feynman lectures](http://www.feynmanlectures.caltech.edu/II_31.html)
 

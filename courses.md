@@ -15,10 +15,22 @@
 * [Emory CS355: Compiter Organization/Architecture II](http://www.mathcs.emory.edu/~cheung/Courses/355/Syllabus/syl.html#CURRENT)
 * [CMU 18-548: Memory System Architecture](https://www.ece.cmu.edu/~ece548/)
 
+# Machine learning
+* http://www.cs.columbia.edu/%7Emcollins/notes-spring2013.html
+* http://www.cs.cmu.edu/~roni/10601
+* http://www.cs.cmu.edu/~mgormley/courses/10701-f16/
+* http://www.stat.cmu.edu/~larry/=sml/
+* https://www.coursera.org/course/neuralnets
+* https://www.youtube.com/watch?v=ChLEJA6J2b8
+* https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv (https://cs231n.github.io/)
+
 # Deep learning
 * [Stanford CS224d: Deep Learning for NLP](http://web.stanford.edu/class/cs224n/)
 * [Stanford DL: Deeping Learning tutorial](http://deeplearning.stanford.edu/tutorial/)
 * [Berkeley DL: Deep learning](http://rll.berkeley.edu/deeprlcourse/)
+* http://ufldl.stanford.edu/tutorial/
+* https://github.com/danluu/UFLDL-tutorial
+* http://introtodeeplearning.com/index.htm
 
 # Algorithms
 * [MIT 6.006: Intro to Algorithms](http://courses.csail.mit.edu/6.006/spring11/notes.shtml)
@@ -50,10 +62,12 @@
 # Hardware
 * [MIT 6.004: Computaion Structures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009/lecture-notes/)
 
-# Maths, Statistics, Probability
+# Maths, Statistics, Probability, Physics
 * [MIT 18.06: Linear Algebra](http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
 * [MIT 15.s50: Intro to Poker Theory](http://ocw.mit.edu/courses/sloan-school-of-management/15-s50-poker-theory-and-analytics-january-iap-2015/lecture-videos/introduction-to-poker-theory/)
 * [MIT 18.006: Calculus revisited](https://ocw.mit.edu/resources/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/course-introduction/)
+* https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about (reco)
+* [Feynman lectures](http://www.feynmanlectures.caltech.edu/II_31.html)
 
 # Distributed Systems
 * [CMU 15-440: Distributed Systems](http://www.cs.cmu.edu/~dga/15-440/F12/syllabus.html)
