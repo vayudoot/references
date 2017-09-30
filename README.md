@@ -50,6 +50,9 @@
 * https://blockgeeks.com/guides/what-is-cryptocurrency/
 * https://anders.com/blockchain/
 * https://www.igvita.com/2014/05/05/minimum-viable-block-chain/
+* [Learn Blockchain by building one](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
+* [Blockchain! Blockchain! Blockchain! For Fun (and Profit)](https://github.com/geraldb/talks/blob/master/blockchain.md)
+* [Awesome Blockchain](https://github.com/openblockchains/awesome-blockchains)
 
 # Storage / Filesystem
 * [Log structured storage](https://news.ycombinator.com/item?id=14447727)
