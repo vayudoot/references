@@ -65,6 +65,8 @@
 # Automative
 * [Intro to CAN bus](https://news.ycombinator.com/item?id=14499021)
 
+# Algorithmic trading
+* [QuantStart](https://www.quantstart.com/ebooks)
 
 # Miscll
 * [YT: Persistent memory](https://www.youtube.com/watch?v=rG8h8NPnHbc)
