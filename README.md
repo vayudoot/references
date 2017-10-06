@@ -25,12 +25,14 @@
 * https://news.ycombinator.com/item?id=14887414
 * https://beamandrew.github.io/deeplearning/2017/06/04/deep_learning_works.html
 * http://doc.mbalib.com/view/92e1a8ab0b2da4a60dea95523683f286.html
-* https://karpathy.github.io/neuralnets/
 * https://monkeylearn.com/blog/practical-explanation-naive-bayes-classifier/
 * https://medium.com/@tifa2up/image-classification-using-deep-neural-networks-a-beginner-friendly-approach-using-tensorflow-94b0a090ccd4
 * https://www.newyorker.com/magazine/2017/04/03/ai-versus-md
+* https://www.youtube.com/watch?v=aircAruvnKk
 
 ## blogs
+* https://colah.github.io/
+* https://karpathy.github.io
 * http://www.johnwittenauer.net/tag/machine-learning/
 * http://blog.deepgram.com/how-to-get-a-job-in-deep-learning/
 

@@ -16,21 +16,22 @@
 * [CMU 18-548: Memory System Architecture](https://www.ece.cmu.edu/~ece548/)
 
 # Machine learning
-* http://www.cs.columbia.edu/%7Emcollins/notes-spring2013.html
-* http://www.cs.cmu.edu/~roni/10601
-* http://www.cs.cmu.edu/~mgormley/courses/10701-f16/
-* http://www.stat.cmu.edu/~larry/=sml/
-* https://www.coursera.org/course/neuralnets
+* [10601A Machine Learning](https://www.cs.cmu.edu/~roni/10601/)
+* [CMU 10-701: Intro to Machine Learning](http://www.cs.cmu.edu/~mgormley/courses/10701-f16/)
+* [CMU 10-702: Statistical Machine Learning](http://www.stat.cmu.edu/~larry/=sml/)
+* [Coursera Neural Nets](https://www.coursera.org/course/neuralnets)
 * https://www.youtube.com/watch?v=ChLEJA6J2b8
 * https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv (https://cs231n.github.io/)
+* http://www.cs.columbia.edu/%7Emcollins/notes-spring2013.html
 
 # Deep learning
+* [IFT6266 Deep Learning](https://ift6266h16.wordpress.com/category/lectures/page/4/)
 * [Stanford CS224d: Deep Learning for NLP](http://web.stanford.edu/class/cs224n/)
 * [Stanford DL: Deeping Learning tutorial](http://deeplearning.stanford.edu/tutorial/)
 * [Berkeley DL: Deep learning](http://rll.berkeley.edu/deeprlcourse/)
-* http://ufldl.stanford.edu/tutorial/
+* [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](http://ufldl.stanford.edu/tutorial/)
+* [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/index.htm)
 * https://github.com/danluu/UFLDL-tutorial
-* http://introtodeeplearning.com/index.htm
 
 # Algorithms
 * [MIT 6.006: Intro to Algorithms](http://courses.csail.mit.edu/6.006/spring11/notes.shtml)
