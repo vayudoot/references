@@ -50,8 +50,11 @@
 * [NCSU CSC573: Internet Protocols](http://rouskas.csc.ncsu.edu/Courses/573/schedule.html)
 * [Illinois CS598MCC: Advanced Internetworking](http://web.engr.illinois.edu/~caesar/courses/CS598.S11/syllabus.html)
 
-# Storage
+# Storage / Data
 * [CMU 18-746: Storage Systems](https://www.ece.cmu.edu/~ganger/746.fall16/lectures.html)
+* [Harvard CS165: Data Systems](http://daslab.seas.harvard.edu/classes/cs165/)
+* [Harvard CS265: Big Data Systems](http://daslab.seas.harvard.edu/classes/cs265/)
+* [CMU 15-721: Advanced Database Systems](http://15721.courses.cs.cmu.edu/spring2017/schedule.html)
 
 # Languages, Compilers, Databases
 * [MIT 6.087: Practical programming in C](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/lecture-notes/)
