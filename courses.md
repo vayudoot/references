@@ -77,3 +77,5 @@
 * [CMU 15-440: Distributed Systems](http://www.cs.cmu.edu/~dga/15-440/F12/syllabus.html)
 * [Stanford CS244b: Distributed Systems](http://www.scs.stanford.edu/14au-cs244b/)
 
+# Photography
+* [CMU 15-463: Computational Photography](http://graphics.cs.cmu.edu/courses/15-463/)
