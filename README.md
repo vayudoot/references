@@ -7,6 +7,15 @@
 * [Intro to programming with pmem](https://software.intel.com/en-us/articles/introduction-to-programming-with-persistent-memory-from-intel)
 * [Programming and usage for NVM](http://research.cs.wisc.edu/sonar/tutorial/)
 * [Intel NTB startup guide](https://github.com/davejiang/linux/wiki/Intel-NTB-Startup-Guide)
+* [Exploring Windows virtual memory](http://www.triplefault.io/2017/08/exploring-windows-virtual-memory.html)
+* [Dirty COW and why lying is bad even if you are the Linux kernel](https://chao-tic.github.io/blog/2017/05/24/dirty-cow)
+* [Writing ARM assembly](https://azeria-labs.com/writing-arm-assembly-part-1/)
+* [Interpreting segfault messages](https://stackoverflow.com/questions/2549214/interpreting-segfault-messages)
+* [Container as kernel object](https://lwn.net/Articles/723561/)
+* [HWPOISON](https://lwn.net/Articles/348886/)
+* [Pitfalls of TSC usage](http://oliveryang.net/2015/09/pitfalls-of-TSC-usage/)
+* [Booting an Intel architecture system](http://www.drdobbs.com/booting-an-intel-architecture-system-par/232400476)
+* [Linux x86 ORC stack unwinder](http://www.codeblueprint.co.uk/2017/07/31/the-orc-unwinder.html)
 
 # Management
 * [Engineering management](https://github.com/charlax/engineering-management)
@@ -29,6 +38,13 @@
 * https://medium.com/@tifa2up/image-classification-using-deep-neural-networks-a-beginner-friendly-approach-using-tensorflow-94b0a090ccd4
 * https://www.newyorker.com/magazine/2017/04/03/ai-versus-md
 * https://www.youtube.com/watch?v=aircAruvnKk
+* [From Python to NumPy](http://www.labri.fr/perso/nrougier/from-python-to-numpy/)
+
+# Virtualization / Containers
+* [Kubernetes by example](http://kubernetesbyexample.com/)
+* [Docker vs Kubernetes vs Mesos](https://mesosphere.com/blog/docker-vs-kubernetes-vs-apache-mesos/)
+* [Linux containers internals](https://rabbitstack.github.io/operating%20systems/linux-containers-internals-part-i/)
+* [Emulate PCI device with QEMU](https://tic-le-polard.blogspot.in/2015/01/emulate-pci-device-with-qemu.html)
 
 ## blogs
 * https://colah.github.io/
@@ -63,6 +79,18 @@
 * [NVMe overview and primer - I](http://storageioblog.com/nvme-overview-and-primer-part-i/)
 * [NVMe bibliography](http://storageioblog.com/nvme-overview-and-primer-part-i/)
 * [How does flash memory avoid data loss?](https://jmetz.com/2017/09/storage-how-does-flash-memory-avoid-data-loss/)
+* [Let's Build a Simple Database](https://cstack.github.io/db_tutorial/)
+* [The Total Newbie’s Guide to Cassandra](https://blog.insightdatascience.com/the-total-newbies-guide-to-cassandra-e63bce0316a4)
+
+# Distributed systems
+* [How your data is stored](https://hackernoon.com/how-your-data-is-stored-or-the-laws-of-the-imaginary-greeks-54c569c17a49)
+* [Masters of Scale](https://mastersofscale.com/)
+* [Scaling a web service: load balancing](https://blog.vivekpanyam.com/scaling-a-web-service-load-balancing/)
+* [How postgres makes transactions atomic](https://brandur.org/postgres-atomicity)
+* [Databases and distributed deadlocks:FAQ](https://www.citusdata.com/blog/2017/08/31/databases-and-distributed-deadlocks-a-faq/)
+* [The Producer-Consumer Problem & POSIX Condition Variables](https://www.cs.fsu.edu/~baker/realtime/restricted/notes/prodcons.html)
+* [POSIX Threads API](https://www.cs.fsu.edu/~baker/realtime/restricted/notes/pthreads.html)
+* [Distributed systems in NoSQL databases](https://highlyscalable.wordpress.com/2012/09/18/distributed-algorithms-in-nosql-databases/)
 
 # Automative
 * [Intro to CAN bus](https://news.ycombinator.com/item?id=14499021)
@@ -70,7 +98,15 @@
 # Algorithmic trading
 * [QuantStart](https://www.quantstart.com/ebooks)
 
+# IoT
+* [CQRS](https://rabbitstack.github.io/cqrs/introduction-to-cqrs/)
+
 # Miscll
 * [YT: Persistent memory](https://www.youtube.com/watch?v=rG8h8NPnHbc)
 * [GDB](https://github.com/CppCon/CppCon2016/tree/master/Tutorials/GDB%20-%20a%20lot%20more%20than%20you%20realized)
-
+* [Build an 8-bit computer](https://eater.net/8bit/)
+* [Git from inside out](https://maryrosecook.com/blog/post/git-from-the-inside-out)
+* [The architecture of open source applications](http://www.aosabook.org/en/index.html)
+* [Optimizing web servers for high throughput and low latency](https://blogs.dropbox.com/tech/2017/09/optimizing-web-servers-for-high-throughput-and-low-latency/)
+* [Text Editor: data structures](http://www.averylaird.com/programming/the%20text%20editor/2017/09/30/the-piece-table/)
+* [Concurrent servers](https://eli.thegreenplace.net/2017/concurrent-servers-part-1-introduction/)
