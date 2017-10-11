@@ -106,6 +106,7 @@
 * [GDB](https://github.com/CppCon/CppCon2016/tree/master/Tutorials/GDB%20-%20a%20lot%20more%20than%20you%20realized)
 * [Build an 8-bit computer](https://eater.net/8bit/)
 * [Git from inside out](https://maryrosecook.com/blog/post/git-from-the-inside-out)
+* [Hackers guide to Git](https://wildlyinaccurate.com/a-hackers-guide-to-git/)
 * [The architecture of open source applications](http://www.aosabook.org/en/index.html)
 * [Optimizing web servers for high throughput and low latency](https://blogs.dropbox.com/tech/2017/09/optimizing-web-servers-for-high-throughput-and-low-latency/)
 * [Text Editor: data structures](http://www.averylaird.com/programming/the%20text%20editor/2017/09/30/the-piece-table/)
