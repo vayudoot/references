@@ -2,6 +2,7 @@
 # Operating Systems, System
 * [CMU 15-213: Intro to Computer Systems (labs)](https://www.cs.cmu.edu/~213/schedule.html)
 * [UC EECE4029: Operating Systems](http://gauss.ececs.uc.edu/Courses/c4029/schedule.html)
+* [Little OS book](https://littleosbook.github.io/)
 * [MIT 6.033: Computer System engineering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2009/video-lectures/)
 * [MIT 6.828: Operating Systems engineering](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-828-operating-system-engineering-fall-2012/lecture-notes-and-readings/)
 * [MIT 6.828: Operating Systems engineering](https://pdos.csail.mit.edu/6.828/2016/schedule.html)
@@ -14,6 +15,7 @@
 * [CMU 18-447: Intro to Computer Architecture](https://www.ece.cmu.edu/~ece447/s14/doku.php?id=schedule)
 * [Emory CS355: Compiter Organization/Architecture II](http://www.mathcs.emory.edu/~cheung/Courses/355/Syllabus/syl.html#CURRENT)
 * [CMU 18-548: Memory System Architecture](https://www.ece.cmu.edu/~ece548/)
+* [MIT 6.823: Computer System Architecture](http://csg.csail.mit.edu/6.823/)
 
 # Machine learning
 * [10601A Machine Learning](https://www.cs.cmu.edu/~roni/10601/)
@@ -32,6 +34,7 @@
 * [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](http://ufldl.stanford.edu/tutorial/)
 * [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/index.htm)
 * https://github.com/danluu/UFLDL-tutorial
+* [Tensorflow 101](https://mubaris.com/2017-10-21/tensorflow-101)
 
 # Algorithms
 * [MIT 6.006: Intro to Algorithms](http://courses.csail.mit.edu/6.006/spring11/notes.shtml)
@@ -76,6 +79,7 @@
 # Distributed Systems
 * [CMU 15-440: Distributed Systems](http://www.cs.cmu.edu/~dga/15-440/F12/syllabus.html)
 * [Stanford CS244b: Distributed Systems](http://www.scs.stanford.edu/14au-cs244b/)
+* [MIT 6.824: Distributed Systems](https://pdos.lcs.mit.edu/6.824/index.html)
 
 # Photography
 * [CMU 15-463: Computational Photography](http://graphics.cs.cmu.edu/courses/15-463/)

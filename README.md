@@ -16,6 +16,7 @@
 * [Pitfalls of TSC usage](http://oliveryang.net/2015/09/pitfalls-of-TSC-usage/)
 * [Booting an Intel architecture system](http://www.drdobbs.com/booting-an-intel-architecture-system-par/232400476)
 * [Linux x86 ORC stack unwinder](http://www.codeblueprint.co.uk/2017/07/31/the-orc-unwinder.html)
+* [Linux device driver lab](https://linux-kernel-labs.github.io/)
 
 # Management
 * [Engineering management](https://github.com/charlax/engineering-management)
@@ -92,6 +93,11 @@
 * [POSIX Threads API](https://www.cs.fsu.edu/~baker/realtime/restricted/notes/pthreads.html)
 * [Distributed systems in NoSQL databases](https://highlyscalable.wordpress.com/2012/09/18/distributed-algorithms-in-nosql-databases/)
 
+# System design
+* [The System Design Primer](https://github.com/donnemartin/system-design-primer)
+* [Scalability blog](http://www.lecloud.net/tagged/scalability)
+* [Software architecture](http://tutorials.jenkov.com/software-architecture/index.html)
+
 # Automative
 * [Intro to CAN bus](https://news.ycombinator.com/item?id=14499021)
 
@@ -111,3 +117,6 @@
 * [Optimizing web servers for high throughput and low latency](https://blogs.dropbox.com/tech/2017/09/optimizing-web-servers-for-high-throughput-and-low-latency/)
 * [Text Editor: data structures](http://www.averylaird.com/programming/the%20text%20editor/2017/09/30/the-piece-table/)
 * [Concurrent servers](https://eli.thegreenplace.net/2017/concurrent-servers-part-1-introduction/)
+* [Equity 101: Stock options](https://blog.esharesinc.com/equity-101-stock-option-basics/)
+* [Equity 101: Stock economics](https://blog.esharesinc.com/equity-101-stock-economics/)
+* [Equity 101: Stock exercizing and taxes](https://blog.esharesinc.com/equity-101-exercising-and-taxes/)
