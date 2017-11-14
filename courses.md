@@ -25,6 +25,7 @@
 * https://www.youtube.com/watch?v=ChLEJA6J2b8
 * https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv (https://cs231n.github.io/)
 * http://www.cs.columbia.edu/%7Emcollins/notes-spring2013.html
+* https://pythonprogramming.net/machine-learning-tutorial-python-introduction/
 
 # Deep learning
 * [IFT6266 Deep Learning](https://ift6266h16.wordpress.com/category/lectures/page/4/)
@@ -35,6 +36,7 @@
 * [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/index.htm)
 * https://github.com/danluu/UFLDL-tutorial
 * [Tensorflow 101](https://mubaris.com/2017-10-21/tensorflow-101)
+* [CS 20SI: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/index.html)
 
 # Algorithms
 * [MIT 6.006: Intro to Algorithms](http://courses.csail.mit.edu/6.006/spring11/notes.shtml)
