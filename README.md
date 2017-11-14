@@ -30,6 +30,11 @@
 * [Sam Altman's startup playbook](http://playbook.samaltman.com/)
 
 # ML
+* [Deep Learning in PyTorch](https://iamtrask.github.io/2017/01/15/pytorch-tutorial/)
+* [Practical Machine Learning Tutorial with Python Introduction](https://pythonprogramming.net/machine-learning-tutorial-python-introduction/)
+* [Capsule Networks explained](https://kndrck.co/posts/capsule_networks_explained/)
+* [Understanding Hinton's CapNet](https://medium.com/@pechyonkin/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b)
+* [What is CapsNet](https://hackernoon.com/what-is-a-capsnet-or-capsule-network-2bfbe48769cc)
 * https://news.ycombinator.com/item?id=14950122
 * https://deeplearning4j.org/deeplearningforbeginners.html#free-machine--and-deep-learning-courses-online
 * https://news.ycombinator.com/item?id=14887414
@@ -54,6 +59,7 @@
 * http://blog.deepgram.com/how-to-get-a-job-in-deep-learning/
 
 # Cryptocurrency
+* [How to build your own blockchain](https://bigishdata.com/2017/11/02/build-your-own-blockchain-part-3-writing-nodes-that-mine/)
 * [Building Blockchain in Go](https://jeiwan.cc/posts/building-blockchain-in-go-part-1/)
 * [Copay multisig tutorial](https://gist.github.com/paOol/d6c78c339cc5c4df6dd745d3bc2cc522)
 * [Ethereum's $31mn hack](https://haseebq.com/a-hacker-stole-31m-of-ether/)

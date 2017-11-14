@@ -25,9 +25,9 @@
 * https://www.youtube.com/watch?v=ChLEJA6J2b8
 * https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv (https://cs231n.github.io/)
 * http://www.cs.columbia.edu/%7Emcollins/notes-spring2013.html
-* https://pythonprogramming.net/machine-learning-tutorial-python-introduction/
 
 # Deep learning
+* [Stanford STATS385: Theories of Deep Learning](https://stats385.github.io/)
 * [IFT6266 Deep Learning](https://ift6266h16.wordpress.com/category/lectures/page/4/)
 * [Stanford CS224d: Deep Learning for NLP](http://web.stanford.edu/class/cs224n/)
 * [Stanford DL: Deeping Learning tutorial](http://deeplearning.stanford.edu/tutorial/)
@@ -64,6 +64,7 @@
 # Languages, Compilers, Databases
 * [MIT 6.087: Practical programming in C](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/lecture-notes/)
 * [MIT 6.088: Intro to C memory management and C++ OOP](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/lecture-notes/)
+* [CS 106B: Programming Abstractions in C++](https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1152/lecture-videos.shtml)
 * [Berkeley CS61A: The Structure and Interpretation of Comptuter Programs](http://inst.eecs.berkeley.edu/~cs61a/sp17/)
 * [MIT 6.001: Structure and Interpretation of Computer Programs](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/)
 * [BU C++](https://www.cs.bu.edu/teaching/)
