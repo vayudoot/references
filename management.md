@@ -3,24 +3,24 @@
 1. Technical
   a. Will engineers trust you to help improve what they build, how? b. Can you pitch in as needed?
 1. Project management
-  a. Will you make development more productive and predictable?
-  a. Will you help engineers technically spec, scope, decompose, tackle, and maintain features?
-  a. Can you help with roadblocks like identifying risky parts, making sure collaboration happens?
+  1. Will you make development more productive and predictable?
+  1. Will you help engineers technically spec, scope, decompose, tackle, and maintain features?
+  1. Can you help with roadblocks like identifying risky parts, making sure collaboration happens?
 1. Product management bridge
-  a. Will you improve how product designers, sales engineer, or even customer work with engineers or vice versa?
-  a. Will you make sure that infra and operations are represented in engineering discussions?
+  1. Will you improve how product designers, sales engineer, or even customer work with engineers or vice versa?
+  1. Will you make sure that infra and operations are represented in engineering discussions?
 1. Domain understanding
-  a. For engineers who lack enterprise experience or customer need, will you help fill the gap?
-  a. Will your visibility be a boon to company?
+  1. For engineers who lack enterprise experience or customer need, will you help fill the gap?
+  1. Will your visibility be a boon to company?
 1. Engineering management
-  a. Will you facilitate hiring?
-  a. In what ways will you help engineers thrive and grow? c. Will you help grow company culture?
+  1. Will you facilitate hiring?
+  1. In what ways will you help engineers thrive and grow? c. Will you help grow company culture?
 1. Junior developers
-  a. Will you help them grow and integrate?
+  1. Will you help them grow and integrate?
 1. Outside face
-  a. Can you assist random customer facing tasks like working with sales engineering or customer success? b. Give talks? Recruit?
+  1. Can you assist random customer facing tasks like working with sales engineering or customer success? b. Give talks? Recruit?
 1. Growth
-  a. As company grows, how will you grow with us?
+  1. As company grows, how will you grow with us?
 
 # Major responsibilities
 1. Hiring - finding individuals which succeed in job
@@ -51,10 +51,14 @@
 # Dealing with superior
 1. Understand the basic manager personalities and deal accordingly
 1. Some have distinct personality while are others are combinations of two or three styles.
-1. The Monopolizer - likes to be incharge of every thing and are fast decision makers, stick to their decisions, are very organized, and are bottom-line oriented. They are my-way-or-highway type and fire first aim later. To deal with them - be clear in your communication, have facts ready, and prepared to do what they say. Some monopolizers might project image of being inclusive and empowering managers. For such managers, watch the outcome more than process once past inclusiveness, they are committed monopolizers.
-1. The Methodicals - analytical types who take their time gathering information and data before making their decision. They are steady and predictable and overly concerned with accuracy. They hate to make decisions and always looking for more or different information. To deal with them - be patient! When you give your input, make sure you have analyzed it carefully and can explain your reasoning and logic
-1. The Motivators - charismatic and have good relationship with everyone in organization. They have high energy, creativity, and competitive spirit. But they talk more than necessary. They like to get things started but completing them is different story. They love to talk and sometimes work gets the backseat. To deal with them - do lot of chitchatting. Ask about their weekend, family, etc. Before they get down to business, they need to socialize.
-1. The Mixers - They have strong sense of dedication, are loyal team members, patient, sympathetic, understanding, dependable, and great at keeping pace. Their Achilles’s heel is that they shy away from conflict and do not like change. They favor status quo. They are more concerned with how people are doing than getting work out. They are always there for you. To deal with them - put on your feelings and teamwork hat.
+1. The Monopolizer - likes to be incharge of every thing and are fast decision makers, stick to their decisions, are very organized, and are bottom-line oriented. They are my-way-or-highway type and fire first aim later. 
+   To deal with them - be clear in your communication, have facts ready, and prepared to do what they say. Some monopolizers might project image of being inclusive and empowering managers. For such managers, watch the outcome more than process once past inclusiveness, they are committed monopolizers.
+1. The Methodicals - analytical types who take their time gathering information and data before making their decision. They are steady and predictable and overly concerned with accuracy. They hate to make decisions and always looking for more or different information.
+   To deal with them - be patient! When you give your input, make sure you have analyzed it carefully and can explain your reasoning and logic
+1. The Motivators - charismatic and have good relationship with everyone in organization. They have high energy, creativity, and competitive spirit. But they talk more than necessary. They like to get things started but completing them is different story. They love to talk and sometimes work gets the backseat.
+   To deal with them - do lot of chitchatting. Ask about their weekend, family, etc. Before they get down to business, they need to socialize.
+1. The Mixers - They have strong sense of dedication, are loyal team members, patient, sympathetic, understanding, dependable, and great at keeping pace. Their Achilles’s heel is that they shy away from conflict and do not like change. They favor status quo. They are more concerned with how people are doing than getting work out. They are always there for you.
+   To deal with them - put on your feelings and teamwork hat.
 
 # Management style
 1. For each employee, use right amount of control and encouragement.
@@ -133,10 +137,10 @@ There are two types of dismissal - 1. due to performance (which is more controll
 1. As this process continues, it’ll be clear to employee as well as you if person is suited for the job.
 1. Casting the employee’s potential in terms of finding her a suitable position would get a “thank you” from her. Also, other team members are clear that you are committed to them being successful.
 1. Once you are convinced that dismissal is only outcome, few alternatives to consider -
-  a. can employee handle some other job that is currently available?
-  a. If opening coming up in other area, can she contribute there?
-  a. Is company large enough that employee can move to some other org and be useful there?
-  a. Even though employee won’t like being fired, can procedure be made such that she feels she was given every opportunity to be successful?
+  1. can employee handle some other job that is currently available?
+  1. If opening coming up in other area, can she contribute there?
+  1. Is company large enough that employee can move to some other org and be useful there?
+  1. Even though employee won’t like being fired, can procedure be made such that she feels she was given every opportunity to be successful?
 1. Documentation of underperforming employee’s results is critically important.
 1. You must be absolutely certain in your mind that dismissal is deserved. You must be sure that you are being as objective as possible.
 
