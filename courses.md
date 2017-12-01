@@ -34,7 +34,7 @@
 * [Berkeley DL: Deep learning](http://rll.berkeley.edu/deeprlcourse/)
 * [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](http://ufldl.stanford.edu/tutorial/)
 * [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/index.htm)
-* https://github.com/danluu/UFLDL-tutorial
+* [Dan Luu Deep Learning](https://github.com/danluu/UFLDL-tutorial)
 * [Tensorflow 101](https://mubaris.com/2017-10-21/tensorflow-101)
 * [CS 20SI: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/index.html)
 
@@ -84,5 +84,7 @@
 * [Stanford CS244b: Distributed Systems](http://www.scs.stanford.edu/14au-cs244b/)
 * [MIT 6.824: Distributed Systems](https://pdos.lcs.mit.edu/6.824/index.html)
 
-# Photography
+# Miscellaneous
 * [CMU 15-463: Computational Photography](http://graphics.cs.cmu.edu/courses/15-463/)
+* [Stanford CS007: Personal Finance for Engineers](https://cs007.blog/)
+

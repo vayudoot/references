@@ -30,6 +30,7 @@
 * [Sam Altman's startup playbook](http://playbook.samaltman.com/)
 
 # ML
+* [Neural Network Architectures](https://towardsdatascience.com/neural-network-architectures-156e5bad51ba)
 * [Deep Learning in PyTorch](https://iamtrask.github.io/2017/01/15/pytorch-tutorial/)
 * [Practical Machine Learning Tutorial with Python Introduction](https://pythonprogramming.net/machine-learning-tutorial-python-introduction/)
 * [Capsule Networks explained](https://kndrck.co/posts/capsule_networks_explained/)
