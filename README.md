@@ -28,6 +28,7 @@
 # Startup
 * [Best startup pitching exercises](https://roadtofunding.com/startup-pitching-exercises/)
 * [Sam Altman's startup playbook](http://playbook.samaltman.com/)
+* [A crash course in sales hacking and deal closing](http://blog.close.io/a-crash-course-in-sales-hacking-and-deal-closing)
 
 # ML
 * [Neural Network Architectures](https://towardsdatascience.com/neural-network-architectures-156e5bad51ba)
