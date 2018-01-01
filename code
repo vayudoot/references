@@ -1,0 +1,19 @@
+
+Choose names thoughtfully.
+Communicate your intent with name.
+Avoid disinformation, name should say what it means and mean what it says.
+Prnounceable names.
+Avoid encodings.
+Clean code should always read like well written prose.
+    variable - noun
+    class    - noun
+    method   - verb
+    boolean  - predicate
+Scope rule
+    Variable name should be short in tiny scope but long in larger scope.
+    Function name should be short in long scope but long in short scope.
+    Class name should be long for public class, short name for private class.
+Function
+    try not to pass more than 3 parameters.
+    try not to pass boolean as argument.
+    A function that changes state should not return value and vice-versa.
