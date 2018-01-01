@@ -48,6 +48,7 @@
 * [Stanford CS166: Data Structures](https://web.stanford.edu/class/cs166/)
 
 # Networking
+* [Stanford CS349D: Cloud Computing Technology](https://web.stanford.edu/class/cs349d/)
 * [Brown CS168: Computer Networks](http://cs.brown.edu/courses/cs168/f15/syllabus.html)
 * [UCSD CSE123: Computer Networks](http://cseweb.ucsd.edu/classes/sp15/cse123-a/syllabus.html)
 * [UCSD CSE124: Networked Services Syllabus](http://cseweb.ucsd.edu/~gmporter/classes/wi15/cse124/syllabus.html)
@@ -60,6 +61,9 @@
 * [Harvard CS165: Data Systems](http://daslab.seas.harvard.edu/classes/cs165/)
 * [Harvard CS265: Big Data Systems](http://daslab.seas.harvard.edu/classes/cs265/)
 * [CMU 15-721: Advanced Database Systems](http://15721.courses.cs.cmu.edu/spring2017/schedule.html)
+
+# Cryptocurrency
+* [Princeton: Bitcoin and Cryptocurrency Technologies](http://bitcoinbook.cs.princeton.edu/)
 
 # Languages, Compilers, Databases
 * [MIT 6.087: Practical programming in C](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/lecture-notes/)

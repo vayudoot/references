@@ -31,6 +31,7 @@
 * [A crash course in sales hacking and deal closing](http://blog.close.io/a-crash-course-in-sales-hacking-and-deal-closing)
 
 # ML
+* [Understanding LSTM networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [Neural Network Architectures](https://towardsdatascience.com/neural-network-architectures-156e5bad51ba)
 * [Deep Learning in PyTorch](https://iamtrask.github.io/2017/01/15/pytorch-tutorial/)
 * [Practical Machine Learning Tutorial with Python Introduction](https://pythonprogramming.net/machine-learning-tutorial-python-introduction/)
@@ -49,6 +50,8 @@
 * [From Python to NumPy](http://www.labri.fr/perso/nrougier/from-python-to-numpy/)
 
 # Virtualization / Containers
+* [Demystifying container runtimes](https://lwn.net/SubscriberLink/741897/5ba9c60a4f6747a3/)
+* [Escape docker containter using waitid](Demystifying container runtimes)
 * [Kubernetes by example](http://kubernetesbyexample.com/)
 * [Docker vs Kubernetes vs Mesos](https://mesosphere.com/blog/docker-vs-kubernetes-vs-apache-mesos/)
 * [Linux containers internals](https://rabbitstack.github.io/operating%20systems/linux-containers-internals-part-i/)
@@ -61,7 +64,13 @@
 * http://blog.deepgram.com/how-to-get-a-job-in-deep-learning/
 
 # Cryptocurrency
+* [Mining bitcoing with pencil and paper](http://www.righto.com/2014/09/mining-bitcoin-with-pencil-and-paper.html)
+* [Bitcoin resources](https://lopp.net/bitcoin.html)
+* [How blockchain works](http://blockchain.mit.edu/how-blockchain-works/)
+* [Coin demo](https://coindemo.io/)
+* [Starting with Ethereum](https://blog.frankel.ch/starting-ethereum/1/#gsc.tab=0)
 * [How to build your own blockchain](https://bigishdata.com/2017/11/02/build-your-own-blockchain-part-3-writing-nodes-that-mine/)
+* [Naivecoin: a tutorial for building your own cryptocurrency](https://lhartikk.github.io/)
 * [Building Blockchain in Go](https://jeiwan.cc/posts/building-blockchain-in-go-part-1/)
 * [Copay multisig tutorial](https://gist.github.com/paOol/d6c78c339cc5c4df6dd745d3bc2cc522)
 * [Ethereum's $31mn hack](https://haseebq.com/a-hacker-stole-31m-of-ether/)
