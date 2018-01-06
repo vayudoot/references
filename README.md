@@ -17,6 +17,7 @@
 * [Booting an Intel architecture system](http://www.drdobbs.com/booting-an-intel-architecture-system-par/232400476)
 * [Linux x86 ORC stack unwinder](http://www.codeblueprint.co.uk/2017/07/31/the-orc-unwinder.html)
 * [Linux device driver lab](https://linux-kernel-labs.github.io/)
+* [Little OS book](https://littleosbook.github.io/)
 
 # Management
 * [Engineering management](https://github.com/charlax/engineering-management)
@@ -56,6 +57,7 @@
 * [Docker vs Kubernetes vs Mesos](https://mesosphere.com/blog/docker-vs-kubernetes-vs-apache-mesos/)
 * [Linux containers internals](https://rabbitstack.github.io/operating%20systems/linux-containers-internals-part-i/)
 * [Emulate PCI device with QEMU](https://tic-le-polard.blogspot.in/2015/01/emulate-pci-device-with-qemu.html)
+* [Intel Virtualization Technology VT ](https://virtualizationtechnologyvt.blogspot.in/)
 
 ## blogs
 * https://colah.github.io/
@@ -64,6 +66,7 @@
 * http://blog.deepgram.com/how-to-get-a-job-in-deep-learning/
 
 # Cryptocurrency
+* [Newcomers guide to cryptocurrency](https://medium.com/the-litecoin-school-of-crypto/a-newcomers-guide-to-crypto/home)
 * [Mining bitcoing with pencil and paper](http://www.righto.com/2014/09/mining-bitcoin-with-pencil-and-paper.html)
 * [Bitcoin resources](https://lopp.net/bitcoin.html)
 * [How blockchain works](http://blockchain.mit.edu/how-blockchain-works/)

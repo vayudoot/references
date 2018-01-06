@@ -91,4 +91,4 @@
 # Miscellaneous
 * [CMU 15-463: Computational Photography](http://graphics.cs.cmu.edu/courses/15-463/)
 * [Stanford CS007: Personal Finance for Engineers](https://cs007.blog/)
-
+* [MIT 6.858: Computer System security](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/index.htm)
