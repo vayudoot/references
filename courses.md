@@ -1,5 +1,6 @@
 
 # Operating Systems, System
+* [Stanford CS140e: An Experimental Course on Operating Systems](https://web.stanford.edu/class/cs140e/syllabus/)
 * [CMU 15-213: Intro to Computer Systems (labs)](https://www.cs.cmu.edu/~213/schedule.html)
 * [UC EECE4029: Operating Systems](http://gauss.ececs.uc.edu/Courses/c4029/schedule.html)
 * [Little OS book](https://littleosbook.github.io/)
@@ -18,12 +19,13 @@
 * [MIT 6.823: Computer System Architecture](http://csg.csail.mit.edu/6.823/)
 
 # Machine learning
+* [Stanford CS229: Machine Learning](http://cs229.stanford.edu/syllabus.html)
+* https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv (https://cs231n.github.io/)
 * [10601A Machine Learning](https://www.cs.cmu.edu/~roni/10601/)
 * [CMU 10-701: Intro to Machine Learning](http://www.cs.cmu.edu/~mgormley/courses/10701-f16/)
 * [CMU 10-702: Statistical Machine Learning](http://www.stat.cmu.edu/~larry/=sml/)
 * [Coursera Neural Nets](https://www.coursera.org/course/neuralnets)
 * https://www.youtube.com/watch?v=ChLEJA6J2b8
-* https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv (https://cs231n.github.io/)
 * http://www.cs.columbia.edu/%7Emcollins/notes-spring2013.html
 
 # Deep learning
@@ -57,10 +59,10 @@
 * [Illinois CS598MCC: Advanced Internetworking](http://web.engr.illinois.edu/~caesar/courses/CS598.S11/syllabus.html)
 
 # Storage / Data
+* [CMU 15-721: Advanced Database Systems](http://15721.courses.cs.cmu.edu/spring2017/schedule.html)
 * [CMU 18-746: Storage Systems](https://www.ece.cmu.edu/~ganger/746.fall16/lectures.html)
 * [Harvard CS165: Data Systems](http://daslab.seas.harvard.edu/classes/cs165/)
 * [Harvard CS265: Big Data Systems](http://daslab.seas.harvard.edu/classes/cs265/)
-* [CMU 15-721: Advanced Database Systems](http://15721.courses.cs.cmu.edu/spring2017/schedule.html)
 
 # Cryptocurrency
 * [Princeton: Bitcoin and Cryptocurrency Technologies](http://bitcoinbook.cs.princeton.edu/)
