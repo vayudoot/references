@@ -1,5 +1,6 @@
 
 # Operating Systems, System
+* [ETH: Computer Architecture](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi9OhoVQBXYFIZywZXCPl4M_)
 * [Stanford CS140e: An Experimental Course on Operating Systems](https://web.stanford.edu/class/cs140e/syllabus/)
 * [CMU 15-213: Intro to Computer Systems (labs)](https://www.cs.cmu.edu/~213/schedule.html)
 * [UC EECE4029: Operating Systems](http://gauss.ececs.uc.edu/Courses/c4029/schedule.html)
