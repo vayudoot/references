@@ -32,6 +32,7 @@
 * [A crash course in sales hacking and deal closing](http://blog.close.io/a-crash-course-in-sales-hacking-and-deal-closing)
 
 # ML
+* [How to learn Deep learning in 6 months](https://towardsdatascience.com/how-to-learn-deep-learning-in-6-months-e45e40ef7d48)
 * [Understanding LSTM networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [Neural Network Architectures](https://towardsdatascience.com/neural-network-architectures-156e5bad51ba)
 * [Deep Learning in PyTorch](https://iamtrask.github.io/2017/01/15/pytorch-tutorial/)

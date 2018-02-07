@@ -29,6 +29,7 @@
 * http://www.cs.columbia.edu/%7Emcollins/notes-spring2013.html
 
 # Deep learning
+* [MIT 6.S094: Deep Learning for Self-Driving Cars](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
 * [Stanford STATS385: Theories of Deep Learning](https://stats385.github.io/)
 * [IFT6266 Deep Learning](https://ift6266h16.wordpress.com/category/lectures/page/4/)
 * [Stanford CS224d: Deep Learning for NLP](http://web.stanford.edu/class/cs224n/)
@@ -43,6 +44,7 @@
 # Algorithms
 * [MIT 6.006: Intro to Algorithms](http://courses.csail.mit.edu/6.006/spring11/notes.shtml)
 * [MIT 6.006: Intro to Algorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/)
+* [MIT 6.851: Advanced Data Structures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/lecture-videos/)
 * [MIT 6.046j: Intro to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/)
 * [UCF COP3502: Computer Science 1](http://www.cs.ucf.edu/courses/cop3502/spr2012/programs/programs.php)
 * [USFCA : Data Structure visualization](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
