@@ -53,6 +53,7 @@
 * [Stanford CS166: Data Structures](https://web.stanford.edu/class/cs166/)
 
 # Networking
+* [Coursera: Cloud Computing Concepts](https://www.youtube.com/playlist?list=PLFd87qVsaLhOkTLvfp6MC94iFa_1c9wrU)
 * [Stanford CS349D: Cloud Computing Technology](https://web.stanford.edu/class/cs349d/)
 * [Brown CS168: Computer Networks](http://cs.brown.edu/courses/cs168/f15/syllabus.html)
 * [UCSD CSE123: Computer Networks](http://cseweb.ucsd.edu/classes/sp15/cse123-a/syllabus.html)
