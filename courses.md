@@ -21,13 +21,12 @@
 
 # Machine learning
 * [Stanford CS229: Machine Learning](http://cs229.stanford.edu/syllabus.html)
-* https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv (https://cs231n.github.io/)
-* [10601A Machine Learning](https://www.cs.cmu.edu/~roni/10601/)
+* [Stanford CS231n: CNN for Visual Recognition](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) (https://cs231n.github.io/)
+* [CMU 10601A: Machine Learning](https://www.cs.cmu.edu/~roni/10601/)
 * [CMU 10-701: Intro to Machine Learning](http://www.cs.cmu.edu/~mgormley/courses/10701-f16/)
 * [CMU 10-702: Statistical Machine Learning](http://www.stat.cmu.edu/~larry/=sml/)
 * [Coursera Neural Nets](https://www.coursera.org/course/neuralnets)
-* https://www.youtube.com/watch?v=ChLEJA6J2b8
-* http://www.cs.columbia.edu/%7Emcollins/notes-spring2013.html
+* [Yann LeCun Why Deep Learning](https://www.youtube.com/watch?v=ChLEJA6J2b8)
 
 # Deep learning
 * [MIT 6.S094: Deep Learning for Self-Driving Cars](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
