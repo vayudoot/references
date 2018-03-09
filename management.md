@@ -144,3 +144,16 @@ There are two types of dismissal - 1. due to performance (which is more controll
 1. Documentation of underperforming employee’s results is critically important.
 1. You must be absolutely certain in your mind that dismissal is deserved. You must be sure that you are being as objective as possible.
 
+# Meetings
+Use two axis of - urgent and important to decide when to schedule the meeting.
+1. Not urgent or important - dont meet. Use email.
+1. Important but not urgent - discuss in weekly/monthly meeting.
+1. Urgent but not important - If need be go for ad-hoc meeting.
+1. Urgent and important - daily meetings until urgency is reduced.
+
+# Conflict resolution
+1. Conflict can be OK if resolved in good way.
+2. Try to integrate all aspects of conflictin views in final 
+
+# Miscll
+Make people feel responsible for the quality of their work by addressing the expected standard, defining what has to be delivered, and evaluating with them about work done.
