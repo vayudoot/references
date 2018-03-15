@@ -150,6 +150,7 @@
 * [Nginx basic tutorial](https://www.netguru.co/codestories/nginx-tutorial-basics-concepts)
 * [YT: Persistent memory](https://www.youtube.com/watch?v=rG8h8NPnHbc)
 * [GDB](https://github.com/CppCon/CppCon2016/tree/master/Tutorials/GDB%20-%20a%20lot%20more%20than%20you%20realized)
+* [Ian Lance's linker series](https://lwn.net/Articles/276782/)
 * [Git from inside out](https://maryrosecook.com/blog/post/git-from-the-inside-out)
 * [Hackers guide to Git](https://wildlyinaccurate.com/a-hackers-guide-to-git/)
 * [The architecture of open source applications](http://www.aosabook.org/en/index.html)

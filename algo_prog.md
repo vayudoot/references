@@ -49,6 +49,7 @@
 * [Build an 8-bit computer](https://eater.net/8bit/)
 * [A simple VM](https://github.com/skx/simple.vm)
 * [Virtual Machinein C](https://felixangell.com/blog/virtual-machine-in-c)
+* [Build your own text editor](https://viewsourcecode.org/snaptoken/kilo/)
 
 # Assmebly
 * [Say hello to x86_64 assembly](https://0xax.github.io/asm_1/)
