@@ -157,3 +157,6 @@ Use two axis of - urgent and important to decide when to schedule the meeting.
 
 # Miscll
 Make people feel responsible for the quality of their work by addressing the expected standard, defining what has to be delivered, and evaluating with them about work done.
+
+# References
+1. [How often you should meet?](https://blog.lucidmeetings.com/blog/how-often-should-you-meet-selecting-the-right-meeting-cadence-for-your-team)
