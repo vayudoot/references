@@ -120,6 +120,8 @@
 * [Database internals](https://ayende.com/blog/tags/databases?page=6)
 * [How sharding works](https://medium.com/@jeeyoungk/how-sharding-works-b4dec46b3f6)
 * [The Total Newbie’s Guide to Cassandra](https://blog.insightdatascience.com/the-total-newbies-guide-to-cassandra-e63bce0316a4)
+* [Redis under hood](https://pauladamsmith.com/articles/redis-under-the-hood.html)
+* [Redis - Writing system software](https://www.youtube.com/watch?v=VBrnmciV9fM)
 
 # Distributed systems
 * [How your data is stored](https://hackernoon.com/how-your-data-is-stored-or-the-laws-of-the-imaginary-greeks-54c569c17a49)

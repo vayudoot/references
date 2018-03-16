@@ -50,6 +50,9 @@
 * [A simple VM](https://github.com/skx/simple.vm)
 * [Virtual Machinein C](https://felixangell.com/blog/virtual-machine-in-c)
 * [Build your own text editor](https://viewsourcecode.org/snaptoken/kilo/)
+* [Snake game in Rust](https://www.youtube.com/watch?v=HCwMb0KslX8)
+* [Build a simple Redis server with Python](http://charlesleifer.com/blog/building-a-simple-redis-server-with-python/)
+* [Write Redis in Python with asyncio](http://jamesls.com/writing-redis-in-python-with-asyncio-part-1.html)
 
 # Assmebly
 * [Say hello to x86_64 assembly](https://0xax.github.io/asm_1/)
