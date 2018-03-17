@@ -3,6 +3,8 @@
 * [FB's peak traffic](http://vincentwoo.com/2011/02/28/facebook-puzzle-peaktraffic/)
 * [Text Editor: data structures](http://www.averylaird.com/programming/the%20text%20editor/2017/09/30/the-piece-table/)
 * [Solving Sudoku](https://medium.com/@neshpatel/solving-sudoku-part-iii-3182fe747883)
+* [Regex engine](https://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html)
+* [Garbage collector](http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/)
 
 # C
 * [Chess Engine in C](https://www.youtube.com/playlist?list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg)
@@ -26,6 +28,12 @@
 # JS/CSS
 * [Modern CSS explained for Dinasaurs](https://medium.com/actualize-network/modern-css-explained-for-dinosaurs-5226febe3525)
 * [How Javascript works](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf)
+* [Javascript 30](https://javascript30.com/)
+* [Learn Django](https://hellowebbooks.com/learn-django/)
+* [Getting started with Redux](https://egghead.io/courses/getting-started-with-redux)
+
+# Assmebly
+* [Say hello to x86_64 assembly](https://0xax.github.io/asm_1/)
 
 # Build
 * [Write FUSE filesystem](https://engineering.facile.it/blog/eng/write-filesystem-fuse/)
@@ -37,6 +45,7 @@
 * [How to build your own blockchain](https://bigishdata.com/2017/11/02/build-your-own-blockchain-part-3-writing-nodes-that-mine/)
 * [Let's Build a Simple Database](https://cstack.github.io/db_tutorial/)
 * [Building a distributed log from scratch](https://bravenewgeek.com/building-a-distributed-log-from-scratch-part-1-storage-mechanics/)
+* [Build your own key-value store](http://codecapsule.com/2012/11/07/implementing-a-key-value-store-part-1-what-are-key-value-stores-and-why-implement-one/)
 * [Memory allocation](https://docs.google.com/document/d/1MFJUcztk4I1TSNrmMBv01duGLY1uxDtaM5CmfBvJZ68/pub)
 * [Write own malloc](https://danluu.com/malloc-tutorial/)
 * [Write a simple memory allocator](https://arjunsreedharan.org/post/148675821737/write-a-simple-memory-allocator)
@@ -53,6 +62,12 @@
 * [Snake game in Rust](https://www.youtube.com/watch?v=HCwMb0KslX8)
 * [Build a simple Redis server with Python](http://charlesleifer.com/blog/building-a-simple-redis-server-with-python/)
 * [Write Redis in Python with asyncio](http://jamesls.com/writing-redis-in-python-with-asyncio-part-1.html)
-
-# Assmebly
-* [Say hello to x86_64 assembly](https://0xax.github.io/asm_1/)
+* [Build your own Raytracer](https://avik-das.github.io/build-your-own-raytracer/)
+* [Super tiny compiler](https://github.com/jamiebuilds/the-super-tiny-compiler)
+* [Lisp interpreter in Python](http://khamidou.com/compilers/lisp.py/)
+* [Tiny datacenter](https://tinydatacenter.com/)
+* [Git in 600 lines](http://gitlet.maryrosecook.com/docs/gitlet.html)
+* [Let's make a Voxel engine](https://sites.google.com/site/letsmakeavoxelengine/home)
+* [Roll a ball in Unity](https://unity3d.com/learn/tutorials/s/roll-ball-tutorial)
+* [Write yourself a Roguelike](https://github.com/thoughtbot/write-yourself-a-roguelike)
+* [Hardware - AT and Arduino projects](http://www.technoblogy.com/show?NMX)

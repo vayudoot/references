@@ -4,6 +4,7 @@
 * [Crafting interpreters](http://www.craftinginterpreters.com/contents.html)
 
 # System / OS / kernel
+* [PCIe primer](http://xillybus.com/tutorials/pci-express-tlp-pcie-primer-tutorial-guide-1)
 * [Kernel debugging](http://www.alexlambert.com/2017/12/18/kernel-debugging-for-newbies.html)
 * [Memory management reference](http://www.memorymanagement.org/index.html)
 * [Intro to programming with pmem](https://software.intel.com/en-us/articles/introduction-to-programming-with-persistent-memory-from-intel)
