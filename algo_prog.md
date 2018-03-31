@@ -71,3 +71,4 @@
 * [Roll a ball in Unity](https://unity3d.com/learn/tutorials/s/roll-ball-tutorial)
 * [Write yourself a Roguelike](https://github.com/thoughtbot/write-yourself-a-roguelike)
 * [Hardware - AT and Arduino projects](http://www.technoblogy.com/show?NMX)
+* [Write your own software renderer](https://github.com/ssloy/tinyrenderer/wiki)
