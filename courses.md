@@ -20,6 +20,7 @@
 * [Little OS book](https://littleosbook.github.io/)
 
 # Machine learning
+* [Course.fast.ai](http://course.fast.ai)
 * [Stanford CS229: Machine Learning](http://cs229.stanford.edu/syllabus.html)
 * [CMU 10601A: Machine Learning](https://www.cs.cmu.edu/~roni/10601/)
 * [CMU 10-701: Intro to Machine Learning](http://www.cs.cmu.edu/~mgormley/courses/10701-f16/)
@@ -69,6 +70,7 @@
 * [Princeton: Bitcoin and Cryptocurrency Technologies](http://bitcoinbook.cs.princeton.edu/)
 
 # Languages, Compilers, Databases
+* [Probability Lecture videos by Joeseph Blitzstein](https://www.youtube.com/playlist?list=PLLVplP8OIVc8EktkrD3Q8td0GmId7DjW0)
 * [MIT 6.087: Practical programming in C](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/lecture-notes/)
 * [MIT 6.088: Intro to C memory management and C++ OOP](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/lecture-notes/)
 * [CS 106B: Programming Abstractions in C++](https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1152/lecture-videos.shtml)
@@ -80,6 +82,7 @@
 * [MIT 6.004: Computaion Structures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009/lecture-notes/)
 
 # Maths, Statistics, Probability, Physics
+* [Khan academy calculus classes](https://www.khanacademy.org/math/calculus-home?t=classes)
 * [MIT 18.06: Linear Algebra](http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
 * [MIT 15.s50: Intro to Poker Theory](http://ocw.mit.edu/courses/sloan-school-of-management/15-s50-poker-theory-and-analytics-january-iap-2015/lecture-videos/introduction-to-poker-theory/)
 * [MIT 18.006: Calculus revisited](https://ocw.mit.edu/resources/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/course-introduction/)
@@ -92,6 +95,11 @@
 * [CMU 15-440: Distributed Systems](http://www.cs.cmu.edu/~dga/15-440/F12/syllabus.html)
 * [Stanford CS244b: Distributed Systems](http://www.scs.stanford.edu/14au-cs244b/)
 * [MIT 6.824: Distributed Systems](https://pdos.lcs.mit.edu/6.824/index.html)
+
+# Data Science
+* [Edx: Learning from Data]
+* [Data Scientist with Python](http://www.datacamp.com/tracks/data-scientist-with-python)
+* [Dataquest](http://www.dataquest.io/path/data-scientist(
 
 # Miscellaneous
 * [Basic electricity tutorials](http://afrotechmods.com/tutorials/category/tutorials/beginner-tutorials/)
