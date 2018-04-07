@@ -36,6 +36,8 @@
 * [Say hello to x86_64 assembly](https://0xax.github.io/asm_1/)
 
 # Build
+* [C threadpool](https://github.com/Pithikos/C-Thread-Pool)
+* [C++ threadpool](https://github.com/leohotfn/Reuzel)
 * [Write FUSE filesystem](https://engineering.facile.it/blog/eng/write-filesystem-fuse/)
 * [FUSE homework](https://www.cs.hmc.edu/~geoff/classes/hmc.cs135.201001/homework/fuse/)
 * [FUSE tutorial](https://www.cs.nmsu.edu/~pfeiffer/fuse-tutorial/)

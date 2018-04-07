@@ -40,6 +40,9 @@
 * [Sam Altman's startup playbook](http://playbook.samaltman.com/)
 * [A crash course in sales hacking and deal closing](http://blog.close.io/a-crash-course-in-sales-hacking-and-deal-closing)
 
+# Network
+* [Beej's socket programming guide](https://beej.us/guide/bgnet/html/multi/index.html)
+
 # ML
 * [Machine learning 101](https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/preview?imm_mid=0f9b7e&cmp=em-data-na-na-newsltr_20171213#slide=id.g168a3288f7_0_58)
 * [How to learn Deep learning in 6 months](https://towardsdatascience.com/how-to-learn-deep-learning-in-6-months-e45e40ef7d48)
@@ -149,6 +152,7 @@
 * [CQRS](https://rabbitstack.github.io/cqrs/introduction-to-cqrs/)
 
 # Miscll
+* [Voltage, Current, Electricity, Magnetism](https://www.youtube.com/watch?v=XiHVe8U5PhU&list=PLkyBCj4JhHt9dIWsO7GaTU149BkIFbo5y)
 * [A gentle introduction to erasure codes](https://www.akalin.com/intro-erasure-codes)
 * [Nginx basic tutorial](https://www.netguru.co/codestories/nginx-tutorial-basics-concepts)
 * [YT: Persistent memory](https://www.youtube.com/watch?v=rG8h8NPnHbc)

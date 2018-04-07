@@ -53,6 +53,7 @@
 * [Yale : C/Graphs](http://www.cs.yale.edu/homes/aspnes/pinewiki/C(2f)Graphs.html)
 
 # Networking
+* [UWash: Computer Networks](https://www.youtube.com/playlist?list=PLfgkuLYEOvGMWvHRgFAcjN_p3Nzbs1t1C)
 * [Brown CS168: Computer Networks](http://cs.brown.edu/courses/cs168/f15/syllabus.html)
 * [UCSD CSE123: Computer Networks](http://cseweb.ucsd.edu/classes/sp15/cse123-a/syllabus.html)
 * [UCSD CSE124: Networked Services Syllabus](http://cseweb.ucsd.edu/~gmporter/classes/wi15/cse124/syllabus.html)
@@ -61,6 +62,7 @@
 * [Illinois CS598MCC: Advanced Internetworking](http://web.engr.illinois.edu/~caesar/courses/CS598.S11/syllabus.html)
 
 # Storage / Data
+* [Stanford: Introduction to Databases](https://lagunita.stanford.edu/courses/Engineering/db/2014_1/about)
 * [CMU 15-721: Advanced Database Systems](http://15721.courses.cs.cmu.edu/spring2017/schedule.html)
 * [CMU 18-746: Storage Systems](https://www.ece.cmu.edu/~ganger/746.fall16/lectures.html)
 * [Harvard CS165: Data Systems](http://daslab.seas.harvard.edu/classes/cs165/)
@@ -99,12 +101,13 @@
 # Data Science
 * [Edx: Learning from Data]
 * [Data Scientist with Python](http://www.datacamp.com/tracks/data-scientist-with-python)
-* [Dataquest](http://www.dataquest.io/path/data-scientist(
+* [Dataquest](http://www.dataquest.io/path/data-scientist)
 
 # Miscellaneous
 * [Basic electricity tutorials](http://afrotechmods.com/tutorials/category/tutorials/beginner-tutorials/)
 * [CMU 15-463: Computational Photography](http://graphics.cs.cmu.edu/courses/15-463/)
 * [Stanford CS007: Personal Finance for Engineers](https://cs007.blog/)
+* [Finance markets](https://www.coursera.org/learn/financial-markets-global)
 * [MIT 6.858: Computer System security](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/index.htm)
 * [Coursera: Learning how to learn](https://www.coursera.org/learn/learning-how-to-learn)
 * [Think again](https://www.coursera.org/learn/understanding-arguments)
