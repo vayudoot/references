@@ -21,6 +21,8 @@
 
 # Machine learning
 * [Course.fast.ai](http://course.fast.ai)
+* [Google's AI crash course](https://developers.google.com/machine-learning/crash-course/)
+* [Microsoft's AI courses](https://aischool.microsoft.com/learning-paths)
 * [Stanford CS229: Machine Learning](http://cs229.stanford.edu/syllabus.html)
 * [CMU 10601A: Machine Learning](https://www.cs.cmu.edu/~roni/10601/)
 * [CMU 10-701: Intro to Machine Learning](http://www.cs.cmu.edu/~mgormley/courses/10701-f16/)
