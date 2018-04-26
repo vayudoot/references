@@ -45,6 +45,9 @@
 * [Yann LeCun Why Deep Learning](https://www.youtube.com/watch?v=ChLEJA6J2b8)
 
 # Algorithms
+* [Stanford Algorithms I](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about)
+* [Stanford Algorithms II](https://henrikwarne.com/2013/02/18/coursera-algorithms-course-part2/)
+* [SUNY CSE373: Intro to Algorithms](https://www.youtube.com/watch?v=A2bFN3MyNDA&list=PLOtl7M3yp-DX32N0fVIyvn7ipWKNGmwpp)
 * [MIT 6.006: Intro to Algorithms](http://courses.csail.mit.edu/6.006/spring11/notes.shtml)
 * [MIT 6.006: Intro to Algorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/)
 * [MIT 6.851: Advanced Data Structures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/lecture-videos/)
@@ -53,6 +56,7 @@
 * [Stanford CS166: Data Structures](https://web.stanford.edu/class/cs166/)
 * [UCF COP3502: Computer Science 1](http://www.cs.ucf.edu/courses/cop3502/spr2012/programs/programs.php)
 * [Yale : C/Graphs](http://www.cs.yale.edu/homes/aspnes/pinewiki/C(2f)Graphs.html)
+* [Robert Segwick Coursera](https://www.coursera.org/instructor/~250165)
 
 # Networking
 * [UWash: Computer Networks](https://www.youtube.com/playlist?list=PLfgkuLYEOvGMWvHRgFAcjN_p3Nzbs1t1C)
