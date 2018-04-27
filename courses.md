@@ -21,6 +21,7 @@
 
 # Machine learning
 * [Course.fast.ai](http://course.fast.ai)
+* [Columbia COMS W4995: Applied Machine Learning](http://www.cs.columbia.edu/~amueller/comsw4995s18/schedule/)
 * [Google's AI crash course](https://developers.google.com/machine-learning/crash-course/)
 * [Microsoft's AI courses](https://aischool.microsoft.com/learning-paths)
 * [Stanford CS229: Machine Learning](http://cs229.stanford.edu/syllabus.html)
