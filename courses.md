@@ -17,6 +17,7 @@
 * [MIT 6.033: Computer System engineering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2009/video-lectures/)
 * [FSU CIS4930: Linux kernel and device driver programming](https://www.cs.fsu.edu/~baker/devices/calendar.html)
 * [Virginia CS216: x86 assembly guide](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
+* [Udemy: x86 asm foundations](https://www.udemy.com/x86-asm-foundations/)
 * [Little OS book](https://littleosbook.github.io/)
 
 # Machine learning
@@ -111,6 +112,8 @@
 * [Dataquest](http://www.dataquest.io/path/data-scientist)
 
 # Miscellaneous
+* [FreeCampCode: Fullstack development](https://www.freecodecamp.org)
+* [Mastering Fullstack Development](https://thinkster.io/tutorials/fullstack)
 * [Basic electricity tutorials](http://afrotechmods.com/tutorials/category/tutorials/beginner-tutorials/)
 * [CMU 15-463: Computational Photography](http://graphics.cs.cmu.edu/courses/15-463/)
 * [Stanford CS007: Personal Finance for Engineers](https://cs007.blog/)
