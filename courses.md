@@ -110,6 +110,8 @@
 * [Edx: Learning from Data]
 * [Data Scientist with Python](http://www.datacamp.com/tracks/data-scientist-with-python)
 * [Dataquest](http://www.dataquest.io/path/data-scientist)
+* [Harvard CS109](https://github.com/cs109/2015)
+* [Harvard CS109b](https://github.com/cs109/2018-cs109b)
 
 # Miscellaneous
 * [FreeCampCode: Fullstack development](https://www.freecodecamp.org)

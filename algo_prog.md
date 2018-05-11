@@ -62,6 +62,7 @@
 * [Virtual Machinein C](https://felixangell.com/blog/virtual-machine-in-c)
 * [Build your own text editor](https://viewsourcecode.org/snaptoken/kilo/)
 * [Snake game in Rust](https://www.youtube.com/watch?v=HCwMb0KslX8)
+* [Handmade Hero: game development in Windows](https://hero.handmade.network/episode/code)
 * [Build a simple Redis server with Python](http://charlesleifer.com/blog/building-a-simple-redis-server-with-python/)
 * [Write Redis in Python with asyncio](http://jamesls.com/writing-redis-in-python-with-asyncio-part-1.html)
 * [Build your own Raytracer](https://avik-das.github.io/build-your-own-raytracer/)
