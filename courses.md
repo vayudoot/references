@@ -20,6 +20,16 @@
 * [Udemy: x86 asm foundations](https://www.udemy.com/x86-asm-foundations/)
 * [Little OS book](https://littleosbook.github.io/)
 
+# Cloud, container, virtualization
+* [Udemy: Docker tutorial for devops](https://www.udemy.com/docker-tutorial-for-devops-run-docker-containers/)
+* [Linux Academy: Containers for everyone](https://linuxacademy.com/ebooks/containers)
+* [Udemy: Serverless concepts](https://www.udemy.com/serverless-concepts/)
+* [Udemy: Serverless architecture on AWS](https://www.udemy.com/serverless-architecture-on-aws/)
+* [Coursera: Architecting with GCP](https://www.coursera.org/specializations/gcp-architecture)
+* [Udemy: GCP Google data engineer](https://www.udemy.com/gcp-data-engineer-and-cloud-architect/)
+* [Udemy: AWS certified solutions architect](https://www.udemy.com/aws-certified-solutions-architect-associate/)
+
+
 # Machine learning
 * [Course.fast.ai](http://course.fast.ai)
 * [Columbia COMS W4995: Applied Machine Learning](http://www.cs.columbia.edu/~amueller/comsw4995s18/schedule/)
