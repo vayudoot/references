@@ -168,7 +168,9 @@ Make people feel responsible for the quality of their work by addressing the exp
 
 # Quotes
 1. I dont have time for tomorrow
-1. If anything in your performance review is a surprise, then I have failed as a manager.
+1. You have to show people you can lead yourself before you can lead others.
 
 # References
 1. [How often you should meet?](https://blog.lucidmeetings.com/blog/how-often-should-you-meet-selecting-the-right-meeting-cadence-for-your-team)
+1. [Military leadership principles](http://www.au.af.mil/au/awc/awcgate/usmc/leadership.htm)
+1. [Military leadership competency and skills](http://leadership.au.af.mil/sls-skil.htm)
