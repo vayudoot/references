@@ -144,6 +144,14 @@ There are two types of dismissal - 1. due to performance (which is more controll
 1. Documentation of underperforming employee’s results is critically important.
 1. You must be absolutely certain in your mind that dismissal is deserved. You must be sure that you are being as objective as possible.
 
+# Performance review
+1. If anything in your performance review is a surprise, then I have failed as a manager.
+1. Coaching is not a purpose of a performance review. The coaching and communication should be an ongoing process that happens before the review.
+1. Problems should be brought up early enough that you have a chance to change or improve before it gets to the point of being written in a review.
+1. If this doesn't happen, it's a sign that the manager is either terrible at communication, not even trying to coach and improve their employees, or even sabotaging you on purpose.
+1. Instead, the purpose of performance reviews is documentation. It can be for good or for bad, depending on the person's performance.
+1. It makes info available to others and preserves it in case you transfer departments, your manager leaves, etc. Like any other documentation, it creates overhead, but you have to weigh that against the value it provides.
+
 # Meetings
 Use two axis of - urgent and important to decide when to schedule the meeting.
 1. Not urgent or important - dont meet. Use email.
@@ -157,6 +165,10 @@ Use two axis of - urgent and important to decide when to schedule the meeting.
 
 # Miscll
 Make people feel responsible for the quality of their work by addressing the expected standard, defining what has to be delivered, and evaluating with them about work done.
+
+# Quotes
+1. I dont have time for tomorrow
+1. If anything in your performance review is a surprise, then I have failed as a manager.
 
 # References
 1. [How often you should meet?](https://blog.lucidmeetings.com/blog/how-often-should-you-meet-selecting-the-right-meeting-cadence-for-your-team)
