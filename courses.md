@@ -124,6 +124,7 @@
 * [Harvard CS109b](https://github.com/cs109/2018-cs109b)
 
 # Miscellaneous
+* [Caltech CS179: GPU Programming](http://courses.cms.caltech.edu/cs179/)
 * [FreeCampCode: Fullstack development](https://www.freecodecamp.org)
 * [Mastering Fullstack Development](https://thinkster.io/tutorials/fullstack)
 * [Basic electricity tutorials](http://afrotechmods.com/tutorials/category/tutorials/beginner-tutorials/)
