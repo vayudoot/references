@@ -152,7 +152,8 @@
 * [CQRS](https://rabbitstack.github.io/cqrs/introduction-to-cqrs/)
 
 # Miscll
-# [How Redux works](https://www.youtube.com/watch?v=1w-oQ-i1XB8&list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt)
+* [NVIDIA QwikLabs](https://nvidia.qwiklab.com/catalog?locale=en)
+* [How Redux works](https://www.youtube.com/watch?v=1w-oQ-i1XB8&list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt)
 * [Voltage, Current, Electricity, Magnetism](https://www.youtube.com/watch?v=XiHVe8U5PhU&list=PLkyBCj4JhHt9dIWsO7GaTU149BkIFbo5y)
 * [A gentle introduction to erasure codes](https://www.akalin.com/intro-erasure-codes)
 * [Nginx basic tutorial](https://www.netguru.co/codestories/nginx-tutorial-basics-concepts)
