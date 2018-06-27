@@ -114,6 +114,7 @@
 * [Feynman lectures](http://www.feynmanlectures.caltech.edu/II_31.html)
 
 # Distributed Systems
+* [Rutgers CS417: Distributed systems](https://www.cs.rutgers.edu/~pxk/417/notes/index.html)
 * [Coursera: Cloud Computing Concepts](https://www.youtube.com/playlist?list=PLFd87qVsaLhOkTLvfp6MC94iFa_1c9wrU)
 * [Stanford CS349D: Cloud Computing Technology](https://web.stanford.edu/class/cs349d/)
 * [CMU 15-440: Distributed Systems](http://www.cs.cmu.edu/~dga/15-440/F12/syllabus.html)
@@ -128,6 +129,7 @@
 * [Harvard CS109b](https://github.com/cs109/2018-cs109b)
 
 # Miscellaneous
+* [MIT 6.857: Computer and Network Security](http://courses.csail.mit.edu/6.857/2012/handouts)
 * [Caltech CS179: GPU Programming](http://courses.cms.caltech.edu/cs179/)
 * [FreeCampCode: Fullstack development](https://www.freecodecamp.org)
 * [Mastering Fullstack Development](https://thinkster.io/tutorials/fullstack)
