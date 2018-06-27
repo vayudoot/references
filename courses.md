@@ -42,13 +42,15 @@
 * [Coursera Neural Nets](https://www.coursera.org/course/neuralnets)
 
 # Deep learning
+* [Stanford CS231n: CNN for Visual Recognition Videos](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 * [Stanford CS231n: CNN for Visual Recognition](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) (https://cs231n.github.io/)
 * [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](http://ufldl.stanford.edu/tutorial/)
+* [Stanford CS224: Deep Learning for NLP Videos](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
+* [Stanford CS224d: Deep Learning for NLP](http://web.stanford.edu/class/cs224n/)
 * [Dan Luu Deep Learning](https://github.com/danluu/UFLDL-tutorial)
 * [MIT 6.S094: Deep Learning for Self-Driving Cars](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
 * [Stanford STATS385: Theories of Deep Learning](https://stats385.github.io/)
 * [IFT6266 Deep Learning](https://ift6266h16.wordpress.com/category/lectures/page/4/)
-* [Stanford CS224d: Deep Learning for NLP](http://web.stanford.edu/class/cs224n/)
 * [Stanford DL: Deeping Learning tutorial](http://deeplearning.stanford.edu/tutorial/)
 * [Berkeley DL: Deep learning](http://rll.berkeley.edu/deeprlcourse/)
 * [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/index.htm)
