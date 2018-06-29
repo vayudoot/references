@@ -171,6 +171,8 @@ Make people feel responsible for the quality of their work by addressing the exp
 1. You have to show people you can lead yourself before you can lead others.
 
 # References
+1. [44 engineering management lessons](http://www.defmacro.org/2014/10/03/engman.html)
+1. [Manager's tools](https://www.manager-tools.com/manager-tools-basics)
 1. [How often you should meet?](https://blog.lucidmeetings.com/blog/how-often-should-you-meet-selecting-the-right-meeting-cadence-for-your-team)
 1. [Military leadership principles](http://www.au.af.mil/au/awc/awcgate/usmc/leadership.htm)
 1. [Military leadership competency and skills](http://leadership.au.af.mil/sls-skil.htm)
