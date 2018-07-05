@@ -86,6 +86,8 @@
 * http://blog.deepgram.com/how-to-get-a-job-in-deep-learning/
 
 # Cryptocurrency
+* [Ethereum Developers](https://ethereumdev.io/)
+* [Learning solidity](https://www.github.com/willitscale/learning-solidity/)
 * [Dumbcoin - An educational python implementation](https://github.com/julienr/ipynb_playground/blob/master/bitcoin/dumbcoin/dumbcoin.ipynb)
 * [A practical intro to blockchain with Python](http://adilmoujahid.com/posts/2018/03/intro-blockchain-bitcoin-python/)
 * [Newcomers guide to cryptocurrency](https://medium.com/the-litecoin-school-of-crypto/a-newcomers-guide-to-crypto/home)

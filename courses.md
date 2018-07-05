@@ -19,6 +19,7 @@
 * [Virginia CS216: x86 assembly guide](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
 * [Udemy: x86 asm foundations](https://www.udemy.com/x86-asm-foundations/)
 * [Little OS book](https://littleosbook.github.io/)
+* [UIC OS notes](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/)
 
 # Cloud, container, virtualization
 * [Udemy: Docker tutorial for devops](https://www.udemy.com/docker-tutorial-for-devops-run-docker-containers/)
@@ -92,6 +93,10 @@
 
 # Cryptocurrency
 * [Princeton: Bitcoin and Cryptocurrency Technologies](http://bitcoinbook.cs.princeton.edu/)
+* [Coursera: Cryptography I](https://www.coursera.org/learn/crypto/)
+* [Coursera: Cryptography II](https://www.coursera.org/learn/crypto2/)
+* [Coursera: Bitcoin & Cryptocurrency](https://www.coursera.org/learn/cryptocurrency/)
+* [Coursera: IBM blockchain foundation](https://www.coursera.org/learn/ibm-blockchain-essentials-for-developers/)
 
 # Languages, Compilers, Databases
 * [Probability Lecture videos by Joeseph Blitzstein](https://www.youtube.com/playlist?list=PLLVplP8OIVc8EktkrD3Q8td0GmId7DjW0)
@@ -141,3 +146,5 @@
 * [MIT 6.858: Computer System security videos](https://www.youtube.com/watch?v=GqmQg-cszw4&list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh)
 * [Coursera: Learning how to learn](https://www.coursera.org/learn/learning-how-to-learn)
 * [Think again](https://www.coursera.org/learn/understanding-arguments)
+* [Leading people and teams](https://www.coursera.org/specializations/leading-teams)
+* [Achieving personal and professional success](https://www.coursera.org/specializations/wharton-success)
