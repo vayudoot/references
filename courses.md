@@ -99,7 +99,7 @@
 * [Coursera: IBM blockchain foundation](https://www.coursera.org/learn/ibm-blockchain-essentials-for-developers/)
 
 # Languages, Compilers, Databases
-* [Probability Lecture videos by Joeseph Blitzstein](https://www.youtube.com/playlist?list=PLLVplP8OIVc8EktkrD3Q8td0GmId7DjW0)
+* [Probability Lecture videos by Joeseph Blitzstein](https://projects.iq.harvard.edu/stat110/youtube)
 * [MIT 6.087: Practical programming in C](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/lecture-notes/)
 * [MIT 6.088: Intro to C memory management and C++ OOP](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/lecture-notes/)
 * [CS 106B: Programming Abstractions in C++](https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1152/lecture-videos.shtml)
