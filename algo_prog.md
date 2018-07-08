@@ -67,6 +67,7 @@
 * [Write Redis in Python with asyncio](http://jamesls.com/writing-redis-in-python-with-asyncio-part-1.html)
 * [Build your own Raytracer](https://avik-das.github.io/build-your-own-raytracer/)
 * [Super tiny compiler](https://github.com/jamiebuilds/the-super-tiny-compiler)
+* [Build Your Own Lisp](http://www.buildyourownlisp.com/contents)
 * [Lisp interpreter in Python](http://khamidou.com/compilers/lisp.py/)
 * [Tiny datacenter](https://tinydatacenter.com/)
 * [Git in 600 lines](http://gitlet.maryrosecook.com/docs/gitlet.html)
