@@ -32,6 +32,7 @@
 
 
 # Machine learning
+* [Stanford CS20: Tensorflow for Deep learning Research](https://stanford.edu/class/cs20si/syllabus.html)
 * [Course.fast.ai](http://course.fast.ai)
 * [Columbia COMS W4995: Applied Machine Learning](http://www.cs.columbia.edu/~amueller/comsw4995s18/schedule/)
 * [Google's AI crash course](https://developers.google.com/machine-learning/crash-course/)

@@ -44,6 +44,8 @@
 * [Beej's socket programming guide](https://beej.us/guide/bgnet/html/multi/index.html)
 
 # ML
+* [ML recipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
+* [Neural Network and Deep Learning book](http://neuralnetworksanddeeplearning.com/)
 * [Machine learning 101](https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/preview?imm_mid=0f9b7e&cmp=em-data-na-na-newsltr_20171213#slide=id.g168a3288f7_0_58)
 * [How to learn Deep learning in 6 months](https://towardsdatascience.com/how-to-learn-deep-learning-in-6-months-e45e40ef7d48)
 * [Understanding LSTM networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
