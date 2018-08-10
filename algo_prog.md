@@ -76,3 +76,6 @@
 * [Write yourself a Roguelike](https://github.com/thoughtbot/write-yourself-a-roguelike)
 * [Hardware - AT and Arduino projects](http://www.technoblogy.com/show?NMX)
 * [Write your own software renderer](https://github.com/ssloy/tinyrenderer/wiki)
+
+# Hardware
+* [LIDAR](http://www.qcontinuum.org/lidar)

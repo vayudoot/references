@@ -4,6 +4,7 @@
 * [Crafting interpreters](http://www.craftinginterpreters.com/contents.html)
 
 # System / OS / kernel
+* [Intro to Computer Org using Assembly](http://bob.cs.sonoma.edu/IntroCompOrg-x64/book.html)
 * [PCIe primer](http://xillybus.com/tutorials/pci-express-tlp-pcie-primer-tutorial-guide-1)
 * [Kernel debugging](http://www.alexlambert.com/2017/12/18/kernel-debugging-for-newbies.html)
 * [Memory management reference](http://www.memorymanagement.org/index.html)
@@ -22,6 +23,7 @@
 * [Booting an Intel architecture system](http://www.drdobbs.com/booting-an-intel-architecture-system-par/232400476)
 * [UEFI boot: how does it actually work then?](https://www.happyassassin.net/2014/01/25/uefi-boot-how-does-that-actually-work-then/)
 * [OSDEV UEFI](https://wiki.osdev.org/UEFI)
+* [OSDEV forums](https://forum.osdev.org/)
 * [Linux x86 ORC stack unwinder](http://www.codeblueprint.co.uk/2017/07/31/the-orc-unwinder.html)
 * [Linux device driver lab](https://linux-kernel-labs.github.io/)
 * [Intro to Mill's Computing model](https://millcomputing.com/topic/introduction-to-the-mill-cpu-programming-model-2/)
