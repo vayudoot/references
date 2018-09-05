@@ -1,5 +1,6 @@
 
 # Operating Systems, System
+* [Berkeley: CS162 Operating Systems and Systems Programming](https://inst.eecs.berkeley.edu/~cs162/fa17/)
 * [ETH: Computer Architecture](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi9OhoVQBXYFIZywZXCPl4M_)
 * [Cornell ECE4750: Computer Architecture](https://web.csl.cornell.edu/courses/ece4750/schedule.html)
 * [CMU 18-447: Intro to Computer Architecture](https://www.ece.cmu.edu/~ece447/s14/doku.php?id=schedule)
@@ -112,11 +113,11 @@
 * [MIT 6.004: Computaion Structures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009/lecture-notes/)
 
 # Maths, Statistics, Probability, Physics
-* [Khan academy calculus classes](https://www.khanacademy.org/math/calculus-home?t=classes)
 * [MIT 18.06: Linear Algebra](http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
-* [MIT 15.s50: Intro to Poker Theory](http://ocw.mit.edu/courses/sloan-school-of-management/15-s50-poker-theory-and-analytics-january-iap-2015/lecture-videos/introduction-to-poker-theory/)
+* [MIT 6.041: Probabilistic Systems Analysis and Applied Probability](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/)
 * [MIT 18.006: Calculus revisited](https://ocw.mit.edu/resources/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/course-introduction/)
-* https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about (reco)
+* [MIT 15.s50: Intro to Poker Theory](http://ocw.mit.edu/courses/sloan-school-of-management/15-s50-poker-theory-and-analytics-january-iap-2015/lecture-videos/introduction-to-poker-theory/)
+* [Stanford: Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about) (reco)
 * [Feynman lectures](http://www.feynmanlectures.caltech.edu/II_31.html)
 
 # Distributed Systems
