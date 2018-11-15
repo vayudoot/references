@@ -121,6 +121,7 @@
 * [Feynman lectures](http://www.feynmanlectures.caltech.edu/II_31.html)
 
 # Distributed Systems
+* [ETH FS2018: Principles of Distributed Computing](https://disco.ethz.ch/courses/podc/)
 * [Rutgers CS417: Distributed systems](https://www.cs.rutgers.edu/~pxk/417/notes/index.html)
 * [Coursera: Cloud Computing Concepts](https://www.youtube.com/playlist?list=PLFd87qVsaLhOkTLvfp6MC94iFa_1c9wrU)
 * [Stanford CS349D: Cloud Computing Technology](https://web.stanford.edu/class/cs349d/)
