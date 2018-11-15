@@ -2,6 +2,7 @@
 # Books
 * [The economy](http://www.core-econ.org/the-economy/book/text/0-3-contents.html)
 * [Crafting interpreters](http://www.craftinginterpreters.com/contents.html)
+* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 
 # System / OS / kernel
 * [Intro to Computer Org using Assembly](http://bob.cs.sonoma.edu/IntroCompOrg-x64/book.html)
