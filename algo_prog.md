@@ -50,6 +50,7 @@
 * [Build your own key-value store](http://codecapsule.com/2012/11/07/implementing-a-key-value-store-part-1-what-are-key-value-stores-and-why-implement-one/)
 * [Memory allocation](https://docs.google.com/document/d/1MFJUcztk4I1TSNrmMBv01duGLY1uxDtaM5CmfBvJZ68/pub)
 * [Write own malloc](https://danluu.com/malloc-tutorial/)
+* [Implementing malloc](https://medium.com/@andrestc/implementing-malloc-and-free-ba7e7704a473)
 * [Write a simple memory allocator](https://arjunsreedharan.org/post/148675821737/write-a-simple-memory-allocator)
 * [Writing a bootloader](http://3zanders.co.uk/2017/10/13/writing-a-bootloader/)
 * [Building poor man's deep learning camera in python](https://www.makeartwithpython.com/blog/poor-mans-deep-learning-camera/)
