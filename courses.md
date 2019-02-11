@@ -62,6 +62,12 @@
 * [Tensorflow 101](https://mubaris.com/2017-10-21/tensorflow-101)
 * [Yann LeCun Why Deep Learning](https://www.youtube.com/watch?v=ChLEJA6J2b8)
 
+# Robotics
+* [Robot Academy](https://robotacademy.net.au/)
+* [Udacity: Flying cars and autonomous flights](https://in.udacity.com/course/flying-car-nanodegree--nd7870)
+* [Coursera: Robotics specialization](https://www.coursera.org/specializations/robotics)
+* [Coursera: Modern robotics](https://www.coursera.org/specializations/modernrobotics)
+
 # Algorithms
 * [Stanford Algorithms I](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about)
 * [Stanford Algorithms II](https://henrikwarne.com/2013/02/18/coursera-algorithms-course-part2/)
