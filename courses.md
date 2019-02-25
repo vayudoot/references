@@ -5,7 +5,7 @@
 * [Berkeley: CS162 Operating Systems and Systems Programming](https://inst.eecs.berkeley.edu/~cs162/fa17/)
 * [ETH: Computer Architecture](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi9OhoVQBXYFIZywZXCPl4M_)
 * [Cornell ECE4750: Computer Architecture](https://web.csl.cornell.edu/courses/ece4750/schedule.html)
-* [CMU 18-447: Intro to Computer Architecture](https://www.ece.cmu.edu/~ece447/s14/doku.php?id=schedule)
+* [CMU 18-447: Intro to Computer Architecture](https://users.ece.cmu.edu/~jhoe/doku/doku.php?id=18-447_course_schedule_spring_2019)
 * [Emory CS355: Compiter Organization/Architecture II](http://www.mathcs.emory.edu/~cheung/Courses/355/Syllabus/syl.html#CURRENT)
 * [MIT 6.823: Computer System Architecture](http://csg.csail.mit.edu/6.823/)
 * [CMU 18-548: Memory System Architecture](https://www.ece.cmu.edu/~ece548/)

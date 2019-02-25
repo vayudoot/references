@@ -159,6 +159,7 @@
 * [CQRS](https://rabbitstack.github.io/cqrs/introduction-to-cqrs/)
 
 # Miscll
+* [A COMPACT PRIMER ON DIGITAL SIGNAL PROCESSING](https://jackschaedler.github.io/circles-sines-signals/index.html)
 * [NVIDIA QwikLabs](https://nvidia.qwiklab.com/catalog?locale=en)
 * [How Redux works](https://www.youtube.com/watch?v=1w-oQ-i1XB8&list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt)
 * [Voltage, Current, Electricity, Magnetism](https://www.youtube.com/watch?v=XiHVe8U5PhU&list=PLkyBCj4JhHt9dIWsO7GaTU149BkIFbo5y)
