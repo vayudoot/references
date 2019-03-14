@@ -51,6 +51,7 @@
 * [Beej's socket programming guide](https://beej.us/guide/bgnet/html/multi/index.html)
 
 # ML
+* [Dive into Deep Learning](www.d2l.ai)
 * [Best DL courses of 2019](https://blog.floydhub.com/best-deep-learning-courses-updated-for-2019/)
 * [ML recipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
 * [Neural Network and Deep Learning book](http://neuralnetworksanddeeplearning.com/)

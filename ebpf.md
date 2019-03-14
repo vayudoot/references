@@ -7,6 +7,9 @@
 * [cilium ebpf xdp](https://cilium.readthedocs.io/en/doc-1.0/bpf/)
 * [bpf comes to firewalls](https://lwn.net/Articles/747551/)
 * [ebpf hop distacce, manually write assembly](https://blog.cloudflare.com/epbf_sockets_hop_distance/)
+* [kernel tracing with ebpf](https://media.ccc.de/v/35c3-9532-kernel_tracing_with_ebpf)
+* [Learn ebpf tracing](http://www.brendangregg.com/blog/2019-01-01/learn-ebpf-tracing.html)
+* [Brendan Gregg's ebpf](http://www.brendangregg.com/ebpf.html)
 
 # XDP
 * [IOVisor XDP](https://www.iovisor.org/technology/xdp)
