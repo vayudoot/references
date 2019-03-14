@@ -1,10 +1,14 @@
 
 # Books
+* [Immersive Linear Algebra](http://immersivemath.com/ila/index.html)
 * [The economy](http://www.core-econ.org/the-economy/book/text/0-3-contents.html)
 * [Crafting interpreters](http://www.craftinginterpreters.com/contents.html)
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 
 # System / OS / kernel
+* [Buffer overflow videos](http://www.cis.syr.edu/~wedu/education/buffer_overflow.html)
+* [Intro to NASM](http://cs.lmu.edu/~ray/notes/nasmtutorial/)
+* [Intro to ARM assembly using RPi](http://bob.cs.sonoma.edu/IntroCompOrg-RPi/intro-co-rpi.html)
 * [Intro to Computer Org using Assembly](http://bob.cs.sonoma.edu/IntroCompOrg-x64/book.html)
 * [PCIe primer](http://xillybus.com/tutorials/pci-express-tlp-pcie-primer-tutorial-guide-1)
 * [Kernel debugging](http://www.alexlambert.com/2017/12/18/kernel-debugging-for-newbies.html)
@@ -47,6 +51,7 @@
 * [Beej's socket programming guide](https://beej.us/guide/bgnet/html/multi/index.html)
 
 # ML
+* [Best DL courses of 2019](https://blog.floydhub.com/best-deep-learning-courses-updated-for-2019/)
 * [ML recipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
 * [Neural Network and Deep Learning book](http://neuralnetworksanddeeplearning.com/)
 * [Machine learning 101](https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/preview?imm_mid=0f9b7e&cmp=em-data-na-na-newsltr_20171213#slide=id.g168a3288f7_0_58)
