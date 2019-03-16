@@ -12,6 +12,7 @@
 * [Brendan Gregg's ebpf](http://www.brendangregg.com/ebpf.html)
 
 # XDP
+* [A brief introduction to XDP and ebpf](https://blogs.igalia.com/dpino/2019/01/07/a-brief-introduction-to-xdp-and-ebpf/)
 * [IOVisor XDP](https://www.iovisor.org/technology/xdp)
 * [XDP intro](https://www.youtube.com/watch?v=lpJk_HcCLnQ)
 
