@@ -38,6 +38,8 @@
 * [Say hello to x86_64 assembly](https://0xax.github.io/asm_1/)
 
 # Projects
+* [Write your own Git](https://wyag.thb.lt/)
+* [Git in 600 lines](http://gitlet.maryrosecook.com/docs/gitlet.html)
 * [C threadpool](https://github.com/Pithikos/C-Thread-Pool)
 * [C++ threadpool](https://github.com/leohotfn/Reuzel)
 * [Write FUSE filesystem](https://engineering.facile.it/blog/eng/write-filesystem-fuse/)
@@ -73,7 +75,6 @@
 * [Build Your Own Lisp](http://www.buildyourownlisp.com/contents)
 * [Lisp interpreter in Python](http://khamidou.com/compilers/lisp.py/)
 * [Tiny datacenter](https://tinydatacenter.com/)
-* [Git in 600 lines](http://gitlet.maryrosecook.com/docs/gitlet.html)
 * [Let's make a Voxel engine](https://sites.google.com/site/letsmakeavoxelengine/home)
 * [Roll a ball in Unity](https://unity3d.com/learn/tutorials/s/roll-ball-tutorial)
 * [Write yourself a Roguelike](https://github.com/thoughtbot/write-yourself-a-roguelike)
