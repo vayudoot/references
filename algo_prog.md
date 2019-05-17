@@ -1,5 +1,6 @@
 # More projects
 * [Project based learning](https://github.com/tuvtran/project-based-learning)
+* [Internals of postgres](http://www.interdb.jp/pg/index.html)
 
 # Algorithm
 * [FB's peak traffic](http://vincentwoo.com/2011/02/28/facebook-puzzle-peaktraffic/)
@@ -42,9 +43,11 @@
 * [Git in 600 lines](http://gitlet.maryrosecook.com/docs/gitlet.html)
 * [C threadpool](https://github.com/Pithikos/C-Thread-Pool)
 * [C++ threadpool](https://github.com/leohotfn/Reuzel)
+* [Circular buffer in C/C++](https://embeddedartistry.com/blog/2017/4/6/circular-buffers-in-cc)
 * [Write FUSE filesystem](https://engineering.facile.it/blog/eng/write-filesystem-fuse/)
 * [FUSE homework](https://www.cs.hmc.edu/~geoff/classes/hmc.cs135.201001/homework/fuse/)
 * [FUSE tutorial](https://www.cs.nmsu.edu/~pfeiffer/fuse-tutorial/)
+* [Rubber docker](https://github.com/Fewbytes/rubber-docker)
 * [Linux containers in 500 lines](https://blog.lizzie.io/linux-containers-in-500-loc.html)
 * [Naivecoin: a tutorial for building your own cryptocurrency](https://lhartikk.github.io/)
 * [Building Blockchain in Go](https://jeiwan.cc/posts/building-blockchain-in-go-part-1/)
@@ -61,6 +64,7 @@
 * [Building poor man's deep learning camera in python](https://www.makeartwithpython.com/blog/poor-mans-deep-learning-camera/)
 * [Four in a row game using boardgame.io](https://www.lonesomecrowdedweb.com/blog/four-in-a-row-boardgameio/)
 * [Fast portable network programming with libevent](http://www.wangafu.net/~nickm/libevent-book/TOC.html)
+* [Let's code a TCP/IP stack](https://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
 * [Hack virtual memory stack](https://blog.holbertonschool.com/hack-virtual-memory-stack-registers-assembly-code/)
 * [Writing a simple kernel module](https://blog.sourcerer.io/writing-a-simple-linux-kernel-module-d9dc3762c234)
 * [Build an 8-bit computer](https://eater.net/8bit/)
@@ -69,6 +73,7 @@
 * [Build your own text editor](https://viewsourcecode.org/snaptoken/kilo/)
 * [Snake game in Rust](https://www.youtube.com/watch?v=HCwMb0KslX8)
 * [Handmade Hero: game development in Windows](https://hero.handmade.network/episode/code)
+* [Space Invaders from scratch](http://nicktasios.nl/posts/space-invaders-from-scratch-part-1.html)
 * [Build a simple Redis server with Python](http://charlesleifer.com/blog/building-a-simple-redis-server-with-python/)
 * [Write Redis in Python with asyncio](http://jamesls.com/writing-redis-in-python-with-asyncio-part-1.html)
 * [Build your own Raytracer](https://avik-das.github.io/build-your-own-raytracer/)
