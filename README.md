@@ -4,6 +4,7 @@
 * [The economy](http://www.core-econ.org/the-economy/book/text/0-3-contents.html)
 * [Crafting interpreters](http://www.craftinginterpreters.com/contents.html)
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+* [Intro to computer architecture with RPi](http://bob.cs.sonoma.edu/IntroCompOrg-RPi/intro-co-rpi.html)
 
 # System / OS / kernel
 * [Buffer overflow videos](http://www.cis.syr.edu/~wedu/education/buffer_overflow.html)
