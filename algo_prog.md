@@ -56,6 +56,7 @@
 * [Write own malloc](https://danluu.com/malloc-tutorial/)
 * [Implementing malloc](https://medium.com/@andrestc/implementing-malloc-and-free-ba7e7704a473)
 * [Write a simple memory allocator](https://arjunsreedharan.org/post/148675821737/write-a-simple-memory-allocator)
+* [Write your own slab memory allocator](http://3zanders.co.uk/2018/02/24/the-slab-allocator/)
 * [Writing a bootloader](http://3zanders.co.uk/2017/10/13/writing-a-bootloader/)
 * [Building poor man's deep learning camera in python](https://www.makeartwithpython.com/blog/poor-mans-deep-learning-camera/)
 * [Four in a row game using boardgame.io](https://www.lonesomecrowdedweb.com/blog/four-in-a-row-boardgameio/)
