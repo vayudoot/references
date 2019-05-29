@@ -65,6 +65,7 @@
 * [Four in a row game using boardgame.io](https://www.lonesomecrowdedweb.com/blog/four-in-a-row-boardgameio/)
 * [Fast portable network programming with libevent](http://www.wangafu.net/~nickm/libevent-book/TOC.html)
 * [Let's code a TCP/IP stack](https://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
+* [x86 assembler in 256 loc](http://blog.jeff.over.bz/assembly/compilers/jit/2017/01/15/x86-assembler.html)
 * [Hack virtual memory stack](https://blog.holbertonschool.com/hack-virtual-memory-stack-registers-assembly-code/)
 * [Writing a simple kernel module](https://blog.sourcerer.io/writing-a-simple-linux-kernel-module-d9dc3762c234)
 * [Build an 8-bit computer](https://eater.net/8bit/)
