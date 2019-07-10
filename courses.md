@@ -70,6 +70,7 @@
 * [Coursera: Modern robotics](https://www.coursera.org/specializations/modernrobotics)
 
 # Algorithms
+* [UIUC CS225: Algorithms](https://courses.engr.illinois.edu/cs225/sp2018/lectures/)
 * [Stanford Algorithms I](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about)
 * [Stanford Algorithms II](https://henrikwarne.com/2013/02/18/coursera-algorithms-course-part2/)
 * [SUNY CSE373: Intro to Algorithms](https://www.youtube.com/watch?v=A2bFN3MyNDA&list=PLOtl7M3yp-DX32N0fVIyvn7ipWKNGmwpp)

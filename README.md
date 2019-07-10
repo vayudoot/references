@@ -76,6 +76,7 @@
 * https://www.newyorker.com/magazine/2017/04/03/ai-versus-md
 * https://www.youtube.com/watch?v=aircAruvnKk
 * [From Python to NumPy](http://www.labri.fr/perso/nrougier/from-python-to-numpy/)
+* [Visual intro to numpy](https://jalammar.github.io/visual-numpy/)
 
 # Virtualization / Containers
 * [Evolution of containers](https://kirankoduru.github.io/devops/evolution-of-container-tech.html)
