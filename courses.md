@@ -139,6 +139,7 @@
 * [MIT 6.824: Distributed Systems](https://pdos.lcs.mit.edu/6.824/index.html)
 
 # Data Science
+* [ds100](https://www.textbook.ds100.org/)
 * [Edx: Learning from Data]
 * [Data Scientist with Python](http://www.datacamp.com/tracks/data-scientist-with-python)
 * [Dataquest](http://www.dataquest.io/path/data-scientist)
