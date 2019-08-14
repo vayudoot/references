@@ -1,5 +1,6 @@
 
-# Operating Systems, System
+# Operating Systems, Systems
+* [Uppasala: VT18 Operating Systems](http://www.it.uu.se/education/course/homepage/os/vt18/)
 * [Rutgers: CS216 Operating Systems](https://www.cs.rutgers.edu/~pxk/416/syllabus.html)
 * [Cornell: CS3410 Computer System Org and Prog](http://www.cs.cornell.edu/courses/cs3410/2018fa/schedule/)
 * [Berkeley: CS162 Operating Systems and Systems Programming](https://inst.eecs.berkeley.edu/~cs162/fa17/)
