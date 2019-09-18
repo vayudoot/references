@@ -39,6 +39,7 @@
 * [Say hello to x86_64 assembly](https://0xax.github.io/asm_1/)
 
 # Projects
+* [Let us build a webserver](https://ruslanspivak.com/lsbaws-part1/)
 * [Write your own Git](https://wyag.thb.lt/)
 * [Git in 600 lines](http://gitlet.maryrosecook.com/docs/gitlet.html)
 * [C threadpool](https://github.com/Pithikos/C-Thread-Pool)

@@ -35,6 +35,7 @@
 * [Intro to Mill's Computing model](https://millcomputing.com/topic/introduction-to-the-mill-cpu-programming-model-2/)
 * [Little OS book](https://littleosbook.github.io/)
 * [Lion's commentary](https://warsus.github.io/lions-/)
+* [User-kernel communication](http://wiki.tldp.org/kernel_user_space_howto)
 
 # Management
 * [Engineering management](https://github.com/charlax/engineering-management)
@@ -177,6 +178,7 @@
 * [YT: Persistent memory](https://www.youtube.com/watch?v=rG8h8NPnHbc)
 * [GDB](https://github.com/CppCon/CppCon2016/tree/master/Tutorials/GDB%20-%20a%20lot%20more%20than%20you%20realized)
 * [Ian Lance's linker series](https://lwn.net/Articles/276782/)
+* [Beginners guide to Linkers](http://www.lurklurk.org/linkers/linkers.html)
 * [Git from inside out](https://maryrosecook.com/blog/post/git-from-the-inside-out)
 * [Hackers guide to Git](https://wildlyinaccurate.com/a-hackers-guide-to-git/)
 * [The architecture of open source applications](http://www.aosabook.org/en/index.html)
