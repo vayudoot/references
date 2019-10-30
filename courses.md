@@ -38,6 +38,7 @@
 # Machine learning
 * [Stanford CS20: Tensorflow for Deep learning Research](https://stanford.edu/class/cs20si/syllabus.html)
 * [Course.fast.ai](http://course.fast.ai)
+* [ML from scratch](http://www.oranlooney.com/post/ml-from-scratch-part-0-introduction/)
 * [Columbia COMS W4995: Applied Machine Learning](http://www.cs.columbia.edu/~amueller/comsw4995s18/schedule/)
 * [Google's AI crash course](https://developers.google.com/machine-learning/crash-course/)
 * [Microsoft's AI courses](https://aischool.microsoft.com/learning-paths)
@@ -123,6 +124,7 @@
 * [MIT 6.004: Computaion Structures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009/lecture-notes/)
 
 # Maths, Statistics, Probability, Physics
+* [3Blue1Brown: Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 * [MIT 18.06: Linear Algebra](http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
 * [MIT 6.041: Probabilistic Systems Analysis and Applied Probability](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/)
 * [MIT 18.006: Calculus revisited](https://ocw.mit.edu/resources/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/course-introduction/)
