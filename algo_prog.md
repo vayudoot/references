@@ -1,5 +1,8 @@
 # More projects
 * [Project based learning](https://github.com/tuvtran/project-based-learning)
+* [Build your own X](https://github.com/danistefanovic/build-your-own-x)
+* [Projects from scratch](https://github.com/AlgoryL/Projects-from-Scratch)
+* [Project based tutorials in C](https://github.com/rby90/Project-Based-Tutorials-in-C)
 * [Internals of postgres](http://www.interdb.jp/pg/index.html)
 
 # Algorithm
