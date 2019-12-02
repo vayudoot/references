@@ -3,6 +3,8 @@
 * [Build your own X](https://github.com/danistefanovic/build-your-own-x)
 * [Projects from scratch](https://github.com/AlgoryL/Projects-from-Scratch)
 * [Project based tutorials in C](https://github.com/rby90/Project-Based-Tutorials-in-C)
+* [Makepad tutorials](https://www.makerpad.co/tutorials)
+* [Build your own bots](https://glitch.com/@glitch/bots)
 * [Internals of postgres](http://www.interdb.jp/pg/index.html)
 
 # Algorithm
@@ -55,6 +57,7 @@
 * [Git in 600 lines](http://gitlet.maryrosecook.com/docs/gitlet.html)
 * [Build your own Raytracer](https://avik-das.github.io/build-your-own-raytracer/)
 * [Super tiny compiler](https://github.com/jamiebuilds/the-super-tiny-compiler)
+* [Build your own React](https://pomb.us/build-your-own-react/)
 ## Typescript
 * [Naivecoin: a tutorial for building your own cryptocurrency](https://lhartikk.github.io/)
 ## Go

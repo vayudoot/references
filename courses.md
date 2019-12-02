@@ -64,6 +64,8 @@
 * [CS 20SI: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/index.html)
 * [Tensorflow 101](https://mubaris.com/2017-10-21/tensorflow-101)
 * [Yann LeCun Why Deep Learning](https://www.youtube.com/watch?v=ChLEJA6J2b8)
+* [Deep learning with PyTorch](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG)
+* [PyTorch Internals](http://blog.ezyang.com/2019/05/pytorch-internals/)
 
 # Robotics
 * [Robot Academy](https://robotacademy.net.au/)
@@ -158,6 +160,7 @@
 * [CMU 15-463: Computational Photography](http://graphics.cs.cmu.edu/courses/15-463/)
 * [Stanford CS007: Personal Finance for Engineers](https://cs007.blog/)
 * [Finance markets](https://www.coursera.org/learn/financial-markets-global)
+* [Quantitative Economics with Python](https://python.quantecon.org/index_toc.html)
 * [MIT 6.858: Computer System security](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/index.htm)
 * [MIT 6.858: Computer System security videos](https://www.youtube.com/watch?v=GqmQg-cszw4&list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh)
 * [Coursera: Learning how to learn](https://www.coursera.org/learn/learning-how-to-learn)
