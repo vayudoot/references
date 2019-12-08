@@ -36,6 +36,7 @@
 
 
 # Machine learning
+* [A practical approach to learn ML](https://practicalai.me/)
 * [Stanford CS20: Tensorflow for Deep learning Research](https://stanford.edu/class/cs20si/syllabus.html)
 * [Course.fast.ai](http://course.fast.ai)
 * [ML from scratch](http://www.oranlooney.com/post/ml-from-scratch-part-0-introduction/)
