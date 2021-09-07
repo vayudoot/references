@@ -5,8 +5,11 @@
 * [Crafting interpreters](http://www.craftinginterpreters.com/contents.html)
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 * [Intro to computer architecture with RPi](http://bob.cs.sonoma.edu/IntroCompOrg-RPi/intro-co-rpi.html)
+* [NLP with Python](https://www.nltk.org/book/)
+* [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 
 # System / OS / kernel
+* [Operating Systems: From 0 to 1](https://pcr910303.github.io/os01/#magicparlabel-45321)
 * [Buffer overflow videos](http://www.cis.syr.edu/~wedu/education/buffer_overflow.html)
 * [Intro to NASM](http://cs.lmu.edu/~ray/notes/nasmtutorial/)
 * [Intro to ARM assembly using RPi](http://bob.cs.sonoma.edu/IntroCompOrg-RPi/intro-co-rpi.html)
@@ -50,6 +53,7 @@
 * [A crash course in sales hacking and deal closing](http://blog.close.io/a-crash-course-in-sales-hacking-and-deal-closing)
 
 # Network
+* [Network programming self study](https://siliconsprawl.com/2020/05/10/network-programming-self-study.html)
 * [Beej's socket programming guide](https://beej.us/guide/bgnet/html/multi/index.html)
 
 # ML

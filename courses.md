@@ -1,5 +1,6 @@
 
 # Operating Systems, Systems
+* [GATECH CS-3210: Design Operating Systems](https://tc.gts3.org/cs3210/2020/spring/index.html)
 * [Uppasala: VT18 Operating Systems](http://www.it.uu.se/education/course/homepage/os/vt18/)
 * [Rutgers: CS216 Operating Systems](https://www.cs.rutgers.edu/~pxk/416/syllabus.html)
 * [Cornell: CS3410 Computer System Org and Prog](http://www.cs.cornell.edu/courses/cs3410/2018fa/schedule/)
@@ -34,6 +35,11 @@
 * [Udemy: GCP Google data engineer](https://www.udemy.com/gcp-data-engineer-and-cloud-architect/)
 * [Udemy: AWS certified solutions architect](https://www.udemy.com/aws-certified-solutions-architect-associate/)
 
+# NLP
+* [Stanford CS224: Deep Learning for NLP Videos](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
+* [Stanford CS224d: Deep Learning for NLP](http://web.stanford.edu/class/cs224n/)
+* [Oxford CS DeepNLP](https://github.com/oxford-cs-deepnlp-2017/lectures)
+* [FAST AI NLP](https://www.fast.ai/2019/07/08/fastai-nlp/)
 
 # Machine learning
 * [A practical approach to learn ML](https://practicalai.me/)
@@ -53,8 +59,6 @@
 * [Stanford CS231n: CNN for Visual Recognition Videos](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 * [Stanford CS231n: CNN for Visual Recognition](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) (https://cs231n.github.io/)
 * [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](http://ufldl.stanford.edu/tutorial/)
-* [Stanford CS224: Deep Learning for NLP Videos](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
-* [Stanford CS224d: Deep Learning for NLP](http://web.stanford.edu/class/cs224n/)
 * [Dan Luu Deep Learning](https://github.com/danluu/UFLDL-tutorial)
 * [MIT 6.S094: Deep Learning for Self-Driving Cars](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
 * [Stanford STATS385: Theories of Deep Learning](https://stats385.github.io/)
@@ -69,6 +73,7 @@
 * [PyTorch Internals](http://blog.ezyang.com/2019/05/pytorch-internals/)
 
 # Robotics
+* [ROS basics in 5 days](https://www.robotigniteacademy.com/en/course/ros-basics-5-days-c/details/)
 * [Robot Academy](https://robotacademy.net.au/)
 * [Udacity: Flying cars and autonomous flights](https://in.udacity.com/course/flying-car-nanodegree--nd7870)
 * [Coursera: Robotics specialization](https://www.coursera.org/specializations/robotics)
@@ -92,6 +97,7 @@
 * [Robert Segwick Coursera](https://www.coursera.org/instructor/~250165)
 
 # Networking
+* [Stanford CS144: Intro to Computer Network](https://cs144.github.io/)
 * [UWash: Computer Networks](https://www.youtube.com/playlist?list=PLfgkuLYEOvGMWvHRgFAcjN_p3Nzbs1t1C)
 * [Brown CS168: Computer Networks](http://cs.brown.edu/courses/cs168/f15/syllabus.html)
 * [UCSD CSE123: Computer Networks](http://cseweb.ucsd.edu/classes/sp15/cse123-a/syllabus.html)
@@ -152,6 +158,9 @@
 * [Harvard CS109](https://github.com/cs109/2015)
 * [Harvard CS109b](https://github.com/cs109/2018-cs109b)
 
+# Biology
+* [Learn Genetics](https://learn.genetics.utah.edu/)
+
 # Miscellaneous
 * [MIT 6.857: Computer and Network Security](http://courses.csail.mit.edu/6.857/2012/handouts)
 * [Caltech CS179: GPU Programming](http://courses.cms.caltech.edu/cs179/)
@@ -168,3 +177,4 @@
 * [Think again](https://www.coursera.org/learn/understanding-arguments)
 * [Leading people and teams](https://www.coursera.org/specializations/leading-teams)
 * [Achieving personal and professional success](https://www.coursera.org/specializations/wharton-success)
+* [MIT 16-687: Private Pilot](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-687-private-pilot-ground-school-january-iap-2019/lecture-notes/)

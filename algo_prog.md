@@ -16,6 +16,7 @@
 
 # C
 * [Chess Engine in C](https://www.youtube.com/playlist?list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg)
+* [Write a hash-table](https://github.com/jamesroutley/write-a-hash-table)
 
 # C++
 * [Heap and priority queues in C++](https://www.fluentcpp.com/2018/03/13/heaps-priority-queues-stl-part-1/)
@@ -30,8 +31,10 @@
 * [Advent of code](https://nbviewer.jupyter.org/url/norvig.com/ipython/Advent%20of%20Code.ipynb)
 * [REST API integration in Python](https://realpython.com/blog/python/api-integration-in-python/)
 * [Python web scrapping tutorial](https://www.dataquest.io/blog/web-scraping-tutorial-python/)
+* [How to write a bittorrent client](http://www.kristenwidman.com/blog/33/how-to-write-a-bittorrent-client-part-1/)
 
 # Go
+* [Building a bittorrent client in Go](https://blog.jse.li/posts/torrent/)
 
 # JS/CSS
 * [Modern CSS explained for Dinasaurs](https://medium.com/actualize-network/modern-css-explained-for-dinosaurs-5226febe3525)
@@ -47,6 +50,7 @@
 ## Python
 * [Let us build a webserver](https://ruslanspivak.com/lsbaws-part1/)
 * [Write your own Git](https://wyag.thb.lt/)
+* [PyGit](https://benhoyt.com/writings/pygit/)
 * [Rubber docker](https://github.com/Fewbytes/rubber-docker)
 * [How to build your own blockchain](https://bigishdata.com/2017/11/02/build-your-own-blockchain-part-3-writing-nodes-that-mine/)
 * [Building poor man's deep learning camera in python](https://www.makeartwithpython.com/blog/poor-mans-deep-learning-camera/)
@@ -61,10 +65,13 @@
 ## Typescript
 * [Naivecoin: a tutorial for building your own cryptocurrency](https://lhartikk.github.io/)
 ## Go
+* [Docker in Go](https://unixism.net/2020/06/containers-the-hard-way-gocker-a-mini-docker-written-in-go/)
+* [Write cat](https://learnto.computer/screencasts/bsd-cat)
 * [Building Blockchain in Go](https://jeiwan.cc/posts/building-blockchain-in-go-part-1/)
 ## Rust
 * [Snake game in Rust](https://www.youtube.com/watch?v=HCwMb0KslX8)
 ## Miscll
+* [Docker in bash](https://github.com/p8952/bocker)
 * [Writing a bootloader](http://3zanders.co.uk/2017/10/13/writing-a-bootloader/)
 * [Building a distributed log from scratch](https://bravenewgeek.com/building-a-distributed-log-from-scratch-part-1-storage-mechanics/)
 * [Four in a row game using boardgame.io](https://www.lonesomecrowdedweb.com/blog/four-in-a-row-boardgameio/)
@@ -74,6 +81,13 @@
 * [Write yourself a Roguelike](https://github.com/thoughtbot/write-yourself-a-roguelike)
 * [Hardware - AT and Arduino projects](http://www.technoblogy.com/show?NMX)
 ## C/C++
+* [Writing a linux debugger](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/)
+* [Writing minimal debugger](https://sigalrm.blogspot.com/2010/07/writing-minimal-debugger.html)
+* [Write cat](https://learnto.computer/screencasts/bsd-cat)
+* [Write a shell in C](https://brennan.io/2015/01/16/write-a-shell-in-c/)
+* [Writing a UNIX shell](https://indradhanush.github.io/blog/writing-a-unix-shell-part-1/)
+* [let's build a shell](https://github.com/kamalmarhubi/shell-workshop)
+* [Build your own shell](https://github.com/tokenrove/build-your-own-shell)
 * [C threadpool](https://github.com/Pithikos/C-Thread-Pool)
 * [C++ threadpool](https://github.com/leohotfn/Reuzel)
 * [Circular buffer in C/C++](https://embeddedartistry.com/blog/2017/4/6/circular-buffers-in-cc)
@@ -95,12 +109,14 @@
 * [Writing a simple kernel module](https://blog.sourcerer.io/writing-a-simple-linux-kernel-module-d9dc3762c234)
 * [A simple VM](https://github.com/skx/simple.vm)
 * [Virtual Machinein C](https://felixangell.com/blog/virtual-machine-in-c)
+* [Write your own Virtual Machine](https://justinmeiners.github.io/lc3-vm/)
 * [Build your own text editor](https://viewsourcecode.org/snaptoken/kilo/)
 * [Handmade Hero: game development in Windows](https://hero.handmade.network/episode/code)
 * [Space Invaders from scratch](http://nicktasios.nl/posts/space-invaders-from-scratch-part-1.html)
 * [Build Your Own Lisp](http://www.buildyourownlisp.com/contents)
 * [Let's make a Voxel engine](https://sites.google.com/site/letsmakeavoxelengine/home)
 * [Write your own software renderer](https://github.com/ssloy/tinyrenderer/wiki)
+* [Write video player in less than 1000 lines](http://dranger.com/ffmpeg/ffmpeg.html)
 
 # Hardware
 * [LIDAR](http://www.qcontinuum.org/lidar)
